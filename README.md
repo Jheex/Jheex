@@ -1,13 +1,17 @@
-# 👋 Olá, eu sou o Jhonatan Lima!
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Jhonatan%20Lima&fontSize=90&animation=fadeIn&fontAlignY=38" />
 </p>
 
-### 🚀 Desenvolvedor Full Stack | Cientista de Dados em Formação | Estudante de Automação
-Atualmente focado em converter dados em decisões inteligentes. Unindo a base sólida de **Análise e Desenvolvimento de Sistemas** com a especialização em **Data Science: Big Data e Engenharia de Dados pela FIAP**. Possuo um background diferenciado em **Design Gráfico Profissional**, o que me permite entregar soluções que não são apenas funcionais, mas visualmente impecáveis e intuitivas.
+<div align="center">
+
+# 🚀 <font color="#00d2ff">Desenvolvedor Full Stack</font> | <font color="#9d50bb">Cientista de Dados em Formação</font> | <font color="#66cc33">Estudante de Automação</font>
 
 ---
+
+### 💡 **<font color="#00d2ff">Atualmente focado em converter dados em decisões inteligentes.</font>** **Unindo a base sólida de Análise e Desenvolvimento de Sistemas com a especialização em <font color="#9d50bb">Data Science: Big Data e Engenharia de Dados pela FIAP</font>. Possuo um background diferenciado em <font color="#FF5733">Design Gráfico Profissional</font>, o que me permite entregar soluções que não são apenas funcionais, mas visualmente impecáveis e intuitivas.**
+
+---
+</div>
 
 ## 🛠️ Tecnologias e Ferramentas em Destaque
 
@@ -16,7 +20,6 @@ Atualmente focado em converter dados em decisões inteligentes. Unindo a base s�
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Blockchain-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
@@ -44,7 +47,6 @@ Atualmente focado em converter dados em decisões inteligentes. Unindo a base s�
   <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/TOTVS_Protheus-004A92?style=for-the-badge&logo=totvs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
 
 ---
@@ -76,7 +78,7 @@ Atualmente focado em converter dados em decisões inteligentes. Unindo a base s�
 - **Introduction to Data Science** – Cisco Networking Academy (2025)
 - **Python Essentials 1 & Fundamentos do Python** – Cisco / SENAI
 - **Princípios Básicos do Aprendizado de Máquina** – Microsoft
-- **Desvendando a Blockchain & Ética em IA** – SENAI
+- **Ética na Inteligência Artificial** – SENAI
 
 #### 🛡️ Infraestrutura & Segurança
 - **Segurança em Tecnologia da Informação** – Fundação Bradesco
@@ -94,22 +96,16 @@ Atualmente focado em converter dados em decisões inteligentes. Unindo a base s�
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheex&layout=compact&theme=dracula" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jheex&theme=dracula" />
-</p>
 
 ---
 
-### 📬 Vamos trabalhar juntos?
+### 📬 Contato
 <p align="left">
   <a href="https://www.linkedin.com/in/jhonatanlima25" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jhonatanlimacoelho25@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Jheex">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
