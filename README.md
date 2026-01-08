@@ -99,18 +99,15 @@
 ### 📊 Estatísticas & Atividade
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas de Jheex" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheex&layout=compact&theme=dracula&cache_seconds=1800" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=transparent&title_color=00d2ff&text_color=ffffff&icon_color=9d50bb&hide_border=true" alt="Estatísticas de Jheex" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jheex&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheex&layout=compact&theme=transparent&title_color=66cc33&text_color=ffffff&hide_border=true" alt="Linguagens" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Jheex?label=Seguidores&style=for-the-badge&color=00d2ff" />
-  <img src="https://img.shields.io/github/stars/Jheex?label=Estrelas&style=for-the-badge&color=9d50bb" />
-  <img src="https://img.shields.io/badge/Commits-Ativo-66cc33?style=for-the-badge&logo=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jheex&theme=dracula" alt="Resumo de Atividade" />
 </p>
 
 ---
