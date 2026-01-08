@@ -80,39 +80,6 @@
 
 <hr/>
 
-<h2 align="center">📊 Estatísticas & Atividade</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jheex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    width="45%"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jheex&layout=compact&theme=dracula"
-    width="45%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Jheex&theme=dracula"
-    width="60%"
-  />
-</p>
-
-<hr/>
-
-<h2 align="center">🛠️ Contribuições</h2>
-
-<p align="center">
-  <img
-    src="https://metrics.lecoq.io/Jheex?template=classic&base=header%2Crepositories%2Cmetadata&config.timezone=America%2FSao_Paulo"
-    width="100%"
-  />
-</p>
-
-<hr/>
-
 ## 📬 Contato
 <p>
   <a href="https://www.linkedin.com/in/jhonatanlima25">
