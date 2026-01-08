@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🚀 Desenvolvedor Full Stack</h1>
-<h2 align="center">📊 Cientista de Dados</h2>
+<h1 align="center">📊 Cientista de Dados</h1>
 
 <p align="center">
   <b>💡 Atualmente focado em converter dados em decisões inteligentes.</b><br/>
