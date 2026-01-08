@@ -4,7 +4,6 @@
 
 <h1 align="center">🚀 Desenvolvedor Full Stack</h1>
 <h2 align="center">📊 Cientista de Dados</h2>
-<h3 align="center">🎓 Estudante de Automação</h3>
 
 <p align="center">
   <b>💡 Atualmente focado em converter dados em decisões inteligentes.</b><br/>
@@ -21,9 +20,20 @@
 ### 🤖 Ciência de Dados & Backend
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+</p>
+
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
+### 🧩 Sistemas ERP
+<p>
+  <img src="https://img.shields.io/badge/TOTVS_Protheus-004A92?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AOKI_E2CORP-2E7D32?style=for-the-badge" />
 </p>
 
 ### 🎨 Design Gráfico & UX/UI
@@ -48,7 +58,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/TOTVS_Protheus-004A92?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
 
@@ -62,7 +71,7 @@
 
 ## 💼 Experiência Profissional
 - **Anidrol Indústria Química** — Help Desk (N1/N2, segurança digital)
-- **YOFC Brasil** — Estagiário de Logística (dados operacionais, ERP)
+- **YOFC Brasil** — Estagiário de Logística (dados operacionais e ERP)
 - **Freelance Design** — Identidade visual e design profissional
 
 ---
