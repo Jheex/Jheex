@@ -85,47 +85,47 @@ Use exatamente assim 👇
 🏆 Cursos e Certificações
 
 🌍 Idiomas
-- Michigan English Test (MET) — 2022
+- ✅Michigan English Test (MET) — 2022
 
 📊 Dados, IA & Tecnologia
-- Introduction to Data Science — Cisco Networking Academy (2025)
-- Princípios básicos de Machine Learning — Microsoft Learn (2024)
-- Implementando Banco de Dados — Fundação Bradesco (2024)
-- Desvendando a Blockchain — SENAI (2024)
-- Ética na Inteligência Artificial — SENAI (2024)
-- Introduction to IoT — Cisco Networking Academy (2024)
+- ✅Introduction to Data Science — Cisco Networking Academy (2025)
+- ✅Princípios básicos de Machine Learning — Microsoft Learn (2024)
+- ✅Implementando Banco de Dados — Fundação Bradesco (2024)
+- ✅Desvendando a Blockchain — SENAI (2024)
+- ✅Ética na Inteligência Artificial — SENAI (2024)
+- ✅Introduction to IoT — Cisco Networking Academy (2024)
 
 🐍 Programação & Desenvolvimento Web
-- Python Essentials 1 — Cisco Networking Academy (2024)
-- Fundamentos do Python 1 — SENAI (2024)
-- Crie um site simples usando HTML, CSS e JavaScript — Fundação Bradesco (2024)
+- ✅Python Essentials 1 — Cisco Networking Academy (2024)
+- ✅Fundamentos do Python 1 — SENAI (2024)
+- ✅Crie um site simples usando HTML, CSS e JavaScript — Fundação Bradesco (2024)
 
 🖥️ Infraestrutura, Hardware & Segurança
-- Fundamentos de TI: Hardware e Software — Fundação Bradesco (2024)
-- Computer Hardware Basics — Cisco Networking Academy (2024)
-- Segurança em Tecnologia da Informação — Fundação Bradesco (2024)
-- Por dentro da Segurança Cibernética — SENAI (2024)
-- Windows 10 — Fundação Richard Hugh Fisk (2018)
+- ✅Fundamentos de TI: Hardware e Software — Fundação Bradesco (2024)
+- ✅Computer Hardware Basics — Cisco Networking Academy (2024)
+- ✅Segurança em Tecnologia da Informação — Fundação Bradesco (2024)
+- ✅Por dentro da Segurança Cibernética — SENAI (2024)
+- ✅Windows 10 — Fundação Richard Hugh Fisk (2018)
 
 🎨 Design Gráfico & Web Design
-- Adobe Photoshop — 2019
-- CorelDRAW — 2019
-- Adobe Illustrator — 2020
-- Adobe InDesign — 2020
-- Adobe Dreamweaver — 2020
-- Adobe Flash — 2021
+- ✅Adobe Photoshop — 2019
+- ✅CorelDRAW — 2019
+- ✅Adobe Illustrator — 2020
+- ✅Adobe InDesign — 2020
+- ✅Adobe Dreamweaver — 2020
+- ✅Adobe Flash — 2021
 
 💼 Ferramentas Corporativas & Gestão
-- Pacote Office (Word, Excel e PowerPoint) — 2018
-- Gestão Financeira — SEBRAE (2024)
-- Competência Transversal: Tecnologia da Informação e Comunicação — SENAI (2024)
+- ✅Pacote Office (Word, Excel e PowerPoint) — 2018
+- ✅Gestão Financeira — SEBRAE (2024)
+- ✅Competência Transversal: Tecnologia da Informação e Comunicação — SENAI (2024)
 
 🎓 Formação Complementar & Carreira
-- Introdução à Construção de Carreira — Estudante.dev (2024)
-- Formação Básica para o Mundo do Trabalho — Sodiprom (2022)
+- ✅Introdução à Construção de Carreira — Estudante.dev (2024)
+- ✅Formação Básica para o Mundo do Trabalho — Sodiprom (2022)
 
 🏫 Eventos & Participações Acadêmicas
-- Certificado de Participação — 2ª Jornada Tecnológica UNIP Anchieta — 2025
+- ✅Certificado de Participação — 2ª Jornada Tecnológica UNIP Anchieta — 2025
 
 </details>
 
