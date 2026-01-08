@@ -95,32 +95,60 @@
 
 ---
 
-### 📊 Estatísticas & Atividade
+## 📊 Estatísticas & Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheex&layout=compact&langs_count=7&theme=dracula" />
+
+  <!-- GitHub Stats -->
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
+  />
+
+  <!-- Top Languages -->
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheex&layout=compact&langs_count=8&theme=dracula&hide_border=true"
+  />
+
 </div>
+
+<br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jheex&theme=dracula" />
+
+  <!-- GitHub Streak -->
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Jheex&theme=dracula&hide_border=true"
+  />
+
 </div>
 
-<br />
+<br/>
+
+---
+
+## 🏷️ Status Atual
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Desenvolvedor_Ativo-00d2ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Foco-Data_Science-9d50bb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Estudante-FIAP-66cc33?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Desenvolvedor_Ativo-00d2ff?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Foco-Data_Science-9d50bb?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Estudante-FIAP-66cc33?style=for-the-badge&logo=google-scholar" />
 </p>
 
 ---
 
-### 🛠️ Contribuições (Gráfico de Atividade)
+## 🛠️ Contribuições & Atividade
+
 <p align="center">
-  <img src="https://metrics.lecoq.io/Jheex?template=classic&base=header%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" alt="Metrics de Jheex" width="100%"/>
+  <img
+    src="https://metrics.lecoq.io/Jheex?template=classic&base=header%2Crepositories%2Cmetadata&config.timezone=America%2FSao_Paulo"
+    alt="Métricas de atividade do GitHub"
+    width="100%"
+  />
 </p>
----
+
 
 ### 📬 Contato
 <p align="left">
