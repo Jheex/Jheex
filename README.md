@@ -4,13 +4,15 @@
 
 <div align="center">
 
-# 🚀 <font color="#00d2ff">Desenvolvedor Full Stack</font> | <font color="#9d50bb">Cientista de Dados em Formação</font> | <font color="#66cc33">Estudante de Automação</font>
+# 🚀 <font color="#00d2ff">Desenvolvedor Full Stack</font> | <font color="#9d50bb">Cientista de Dados</font> | <font color="#66cc33">Estudante de Automação</font>
 
 ---
 
-### 💡 **<font color="#00d2ff">Atualmente focado em converter dados em decisões inteligentes.</font>** **Unindo a base sólida de Análise e Desenvolvimento de Sistemas com a especialização em <font color="#9d50bb">Data Science: Big Data e Engenharia de Dados pela FIAP</font>. Possuo um background diferenciado em <font color="#FF5733">Design Gráfico Profissional</font>, o que me permite entregar soluções que não são apenas funcionais, mas visualmente impecáveis e intuitivas.**
+> ### 💡 **<font color="#00d2ff">Atualmente focado em converter dados em decisões inteligentes.</font>**
+> **Unindo a base sólida de Análise e Desenvolvimento de Sistemas com a especialização em <font color="#9d50bb">Data Science: Big Data e Engenharia de Dados pela FIAP</font>. Possuo um background diferenciado em <font color="#FF5733">Design Gráfico Profissional</font>, o que me permite entregar soluções que não são apenas funcionais, mas visualmente impecáveis e intuitivas.**
 
 ---
+
 </div>
 
 ## 🛠️ Tecnologias e Ferramentas em Destaque
@@ -39,6 +41,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Adobe_Dreamweaver-FF0000?style=for-the-badge&logo=adobe-dreamweaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Flash-FF0000?style=for-the-badge&logo=adobe-flash&logoColor=white" />
 </p>
 
 ### 🛠️ Infraestrutura & Corporativo
@@ -47,14 +50,15 @@
   <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/TOTVS_Protheus-004A92?style=for-the-badge&logo=totvs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
 
 ---
 
 ### 🎓 Formação Acadêmica
-* 🎓 **Data Science - Big Data, BI & Data Engineering** | FIAP (2026 — 2027)
-* 🎓 **Análise e Desenvolvimento de Sistemas** | UNIP (Concluído em 2025)
-* 🎓 **Design Gráfico e Inglês Avançado** | Fisk (Concluído)
+* Data Science - Big Data, BI & Data Engineering | **FIAP** (2026 — 2027)
+* Análise e Desenvolvimento de Sistemas | **UNIP** (Concluído em 2025)
+* Design Gráfico e Inglês Avançado | **Fisk** (Concluído)
 
 ---
 
@@ -73,28 +77,40 @@
 #### 🇺🇸 Idiomas
 - **MET - Michigan English Test** – Nível Intermediário.
 - **Fluency 2** – Formação completa em Inglês pela Fisk.
+- **Espanhol** – Básico (Em andamento).
 
 #### 🐍 Programação, Dados & IA
 - **Introduction to Data Science** – Cisco Networking Academy (2025)
 - **Python Essentials 1 & Fundamentos do Python** – Cisco / SENAI
 - **Princípios Básicos do Aprendizado de Máquina** – Microsoft
 - **Ética na Inteligência Artificial** – SENAI
+- **Data Science** – Cisco (6h)
 
 #### 🛡️ Infraestrutura & Segurança
 - **Segurança em Tecnologia da Informação** – Fundação Bradesco
 - **Por dentro da Segurança Cibernética** – SENAI
 - **Microsoft Entra ID (Identidades)** – Microsoft
 - **Computer Hardware Basics** – Cisco Networking Academy
+- **Introduction to IoT** – Cisco
 </details>
 
 ---
 
 ### 📊 Estatísticas & Atividade
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheex&layout=compact&theme=dracula" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheex&layout=compact&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jheex&theme=dracula" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Jheex?label=Seguidores&style=for-the-badge&color=00d2ff" />
+  <img src="https://img.shields.io/github/stars/Jheex?label=Estrelas&style=for-the-badge&color=9d50bb" />
+  <img src="https://img.shields.io/github/commit-activity/m/Jheex?label=Commits&style=for-the-badge&color=66cc33" />
 </p>
 
 ---
