@@ -4,12 +4,12 @@
 
 <div align="center">
 
-# 🚀 <font color="#00d2ff">Desenvolvedor Full Stack</font> | <font color="#9d50bb">Cientista de Dados</font> | <font color="#66cc33">Estudante de Automação</font>
+# 🚀<br> <font color="#b4b634ff">Desenvolvedor Full Stack</font> <br> <font color="#1745c4ff">Cientista de Dados</font> <br> <font color="#66cc33">Estudante de Automação  </font>
 
 ---
 
-> ### 💡 **<font color="#00d2ff">Atualmente focado em converter dados em decisões inteligentes.</font>**
-> **Unindo a base sólida de Análise e Desenvolvimento de Sistemas com a especialização em <font color="#9d50bb">Data Science: Big Data e Engenharia de Dados pela FIAP</font>. Possuo um background diferenciado em <font color="#FF5733">Design Gráfico Profissional</font>, o que me permite entregar soluções que não são apenas funcionais, mas visualmente impecáveis e intuitivas.**
+> ### 💡 **<font color="#ffffffff">Atualmente focado em converter dados em decisões inteligentes.</font>**
+> **Unindo a base sólida de <font color="#b4b634ff"> Análise e Desenvolvimento de Sistemas </font> com a especialização em <font color="#1745c4ff">Data Science: Big Data e Engenharia de Dados pela FIAP</font>. Possuo um background diferenciado em <font color="#66cc33">Design Gráfico Profissional</font>, o que me permite entregar soluções que não são apenas funcionais, mas visualmente impecáveis e intuitivas.**
 
 ---
 
@@ -58,7 +58,6 @@
 ### 🎓 Formação Acadêmica
 * Data Science - Big Data, BI & Data Engineering | **FIAP** (2026 — 2027)
 * Análise e Desenvolvimento de Sistemas | **UNIP** (Concluído em 2025)
-* Design Gráfico e Inglês Avançado | **Fisk** (Concluído)
 
 ---
 
@@ -98,18 +97,29 @@
 
 ### 📊 Estatísticas & Atividade
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=transparent&title_color=00d2ff&text_color=ffffff&icon_color=9d50bb&hide_border=true" alt="Estatísticas de Jheex" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheex&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jheex&theme=dracula" />
+</div>
+
+<br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheex&layout=compact&theme=transparent&title_color=66cc33&text_color=ffffff&hide_border=true" alt="Linguagens" />
+  <img src="https://img.shields.io/badge/Status-Desenvolvedor_Ativo-00d2ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Data_Science-9d50bb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Estudante-FIAP-66cc33?style=for-the-badge" />
 </p>
 
+---
+
+### 🛠️ Contribuições (Gráfico de Atividade)
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jheex&theme=dracula" alt="Resumo de Atividade" />
+  <img src="https://metrics.lecoq.io/Jheex?template=classic&base=header%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" alt="Metrics de Jheex" width="100%"/>
 </p>
-
 ---
 
 ### 📬 Contato
