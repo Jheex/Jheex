@@ -99,8 +99,8 @@
 ### 📊 Estatísticas & Atividade
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheex&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas de Jheex" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheex&layout=compact&theme=dracula&cache_seconds=1800" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Jheex?label=Seguidores&style=for-the-badge&color=00d2ff" />
   <img src="https://img.shields.io/github/stars/Jheex?label=Estrelas&style=for-the-badge&color=9d50bb" />
-  <img src="https://img.shields.io/github/commit-activity/m/Jheex?label=Commits&style=for-the-badge&color=66cc33" />
+  <img src="https://img.shields.io/badge/Commits-Ativo-66cc33?style=for-the-badge&logo=github" />
 </p>
 
 ---
