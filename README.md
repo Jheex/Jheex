@@ -1,112 +1,106 @@
 # 👋 Olá, eu sou o Jhonatan Lima!
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Jhonatan%20Lima&fontSize=90&animation=fadeIn&fontAlignY=38" />
+</p>
+
 ### 🚀 Desenvolvedor Full Stack | Cientista de Dados em Formação | Estudante de Automação
-Atualmente focado em converter dados em decisões inteligentes. Unindo a base sólida de **Análise e Desenvolvimento de Sistemas** com a especialização em **Data science: Big Data e Engenharia de Dados pela FIAP**. Possuo um background diferenciado em **Design Gráfico Profissional**, o que me permite entregar soluções que não são apenas funcionais, mas visualmente impecáveis e intuitivas.
+Atualmente focado em converter dados em decisões inteligentes. Unindo a base sólida de **Análise e Desenvolvimento de Sistemas** com a especialização em **Data Science: Big Data e Engenharia de Dados pela FIAP**. Possuo um background diferenciado em **Design Gráfico Profissional**, o que me permite entregar soluções que não são apenas funcionais, mas visualmente impecáveis e intuitivas.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas em Destaque
+
+### 🤖 Ciência de Dados & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blockchain-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### 🎨 Design Gráfico & UX/UI (Expertise Profissional)
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/CorelDRAW-008D4F?style=for-the-badge&logo=coreldraw&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
+
+### 🌐 Desenvolvimento Web
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe_Dreamweaver-FF0000?style=for-the-badge&logo=adobe-dreamweaver&logoColor=white" />
+</p>
+
+### 🛠️ Infraestrutura & Corporativo
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TOTVS_Protheus-004A92?style=for-the-badge&logo=totvs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+</p>
 
 ---
 
 ### 🎓 Formação Acadêmica
-* **Graduação:** Data Science - Big Data, BI & Data Engineering | **FIAP** (2026 — 2027)
-* **Graduação:** Análise e Desenvolvimento de Sistemas | **UNIP** (Concluído em 2025)
-* **Formação Profissionalizante:** Design Gráfico e Inglês Avançado | **Fisk** (Concluído)
-
----
-
-### 💻 Stack Técnica Completa
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%"><b>🤖 Data & Backend</b></td>
-    <td align="center" width="33%"><b>🎨 Design & UX (Expert)</b></td>
-    <td align="center" width="33%"><b>🛠️ Infra & Corp</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Blockchain-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/TOTVS-004A92?style=for-the-badge&logo=linux&logoColor=white" />
-    </td>
-  </tr>
-</table>
+* 🎓 **Data Science - Big Data, BI & Data Engineering** | FIAP (2026 — 2027)
+* 🎓 **Análise e Desenvolvimento de Sistemas** | UNIP (Concluído em 2025)
+* 🎓 **Design Gráfico e Inglês Avançado** | Fisk (Concluído)
 
 ---
 
 ### 💼 Experiência Profissional
-* **Anidrol Indústria Química (Help Desk):** Suporte técnico N1/N2, manutenção preventiva/corretiva e gestão de segurança digital em ambiente industrial.
-* **YOFC Brasil (Estagiário de Logística):** Controle de estoque, análise de dados operacionais e otimização de fluxos administrativos.
-* **Freelance Design:** Desenvolvimento de identidades visuais e materiais gráficos de alta complexidade.
+* **Anidrol Indústria Química (Help Desk):** Suporte técnico N1/N2, manutenção preventiva/corretiva e segurança digital.
+* **YOFC Brasil (Estagiário de Logística):** Controle de estoque, análise de dados operacionais e ERP.
+* **Freelance Design:** Desenvolvimento de identidades visuais e artes complexas.
 
 ---
 
 ### 🏆 Conquistas e Certificações Detalhadas
-Possuo uma cultura de **Lifelong Learning**, com foco constante em novas tecnologias.
-
 <details>
-  <summary><b>🔥 Clique para ver a lista completa de certificações (20+)</b></summary>
+  <summary><b>🔥 Clique para ver a lista completa (20+ certificados)</b></summary>
   <br />
 
-#### 📈 Ciência de Dados & IA
-- **Introduction to Data Science** – Cisco Networking Academy
-- **Princípios Básicos do Aprendizado de Máquina** – Microsoft Learn
-- **Ética na Inteligência Artificial** – SENAI
-- **Data Science** – Cisco (6h)
+#### 🇺🇸 Idiomas
+- **MET - Michigan English Test** – Nível Intermediário.
+- **Fluency 2** – Formação completa em Inglês pela Fisk.
 
-#### 🐍 Programação & Web
-- **Python Essentials 1** – Cisco Networking Academy (30h)
-- **Fundamentos do Python 1** – SENAI Diadema
-- **Criação de Sites (HTML, CSS e JavaScript)** – Fundação Bradesco
-- **Desvendando a Blockchain** – SENAI
-- **Web Accessibility Principles (Acessibilidade)** – Microsoft
-
-#### 🎨 Design & Multimídia (Formação Completa Fisk)
-- **Adobe Creative Suite:** Photoshop, Illustrator, InDesign, Flash, DreamWeaver.
-- **CorelDRAW Profissional** – Vetores e Impressos.
-- **Figma & Canva** – Prototipagem e Social Media.
+#### 🐍 Programação, Dados & IA
+- **Introduction to Data Science** – Cisco Networking Academy (2025)
+- **Python Essentials 1 & Fundamentos do Python** – Cisco / SENAI
+- **Princípios Básicos do Aprendizado de Máquina** – Microsoft
+- **Desvendando a Blockchain & Ética em IA** – SENAI
 
 #### 🛡️ Infraestrutura & Segurança
 - **Segurança em Tecnologia da Informação** – Fundação Bradesco
 - **Por dentro da Segurança Cibernética** – SENAI
 - **Microsoft Entra ID (Identidades)** – Microsoft
 - **Computer Hardware Basics** – Cisco Networking Academy
-- **Introduction to IoT** – Cisco
-
-#### 🌎 Idiomas & Outros
-- **English MET (Michigan English Test)** – Nível Intermediário.
-- **Espanhol** – Básico (Em andamento).
-- **Gestão Financeira** – SEBRAE.
-- **Formação para o Mundo do Trabalho** – Sodiprom (364h).
 </details>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas & Atividade
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheex&layout=compact&theme=dracula" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jheex&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheex&layout=compact&theme=dracula" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jheex&theme=dracula" />
 </p>
 
 ---
 
 ### 📬 Vamos trabalhar juntos?
-Sinta-se à vontade para entrar em contato para projetos de **Dados, Automação ou Design**.
-
 <p align="left">
   <a href="https://www.linkedin.com/in/jhonatanlima25" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -117,4 +111,8 @@ Sinta-se à vontade para entrar em contato para projetos de **Dados, Automação
   <a href="https://github.com/Jheex">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <i>"A persistência é o caminho do êxito."</i>
 </p>
