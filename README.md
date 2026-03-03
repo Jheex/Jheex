@@ -119,20 +119,20 @@
 📚 **Carga Horária:** 2000 horas
 
 ### 📘 1º Ano – 2026
-- **Modern Data Architecture & Engineering:** Big Data, Hadoop, Spark, Data Lakes, Kafka, ELK, Redshift, BigQuery, Snowflake, Cloud AWS/Google Cloud, Governança & Segurança.
-- **Data Architecture, Analytics & NoSQL:** Linux, Oracle, MongoDB, Cassandra, Redis, Neo4J, ELK, Cloud AWS/Google/OCI.
-- **Smart SQL & Relational Database:** Modelagem relacional, SQL, JOINs, Subqueries, Aggregations, Integração com IA.
-- **Data Ethics, Governance & Security:** LGPD/GDPR, Governança de Dados, Segurança, Ética em IA.
-- **Statistical Methods for DS & ML:** Estatística, Pandas, NumPy, Matplotlib, Testes de Hipótese, Introdução a Machine Learning, Mineração de Texto e Imagem.
-- **Building Data-Driven Applications:** Python & PL/SQL, Streamlit, Looker Studio, APIs, Web Scraping, Procedures, Triggers e Automação.
+- ✅**Modern Data Architecture & Engineering:** Big Data, Hadoop, Spark, Data Lakes, Kafka, ELK, Redshift, BigQuery, Snowflake, Cloud AWS/Google Cloud, Governança & Segurança.
+- ✅**Data Architecture, Analytics & NoSQL:** Linux, Oracle, MongoDB, Cassandra, Redis, Neo4J, ELK, Cloud AWS/Google/OCI.
+- ✅**Smart SQL & Relational Database:** Modelagem relacional, SQL, JOINs, Subqueries, Aggregations, Integração com IA.
+- ✅**Data Ethics, Governance & Security:** LGPD/GDPR, Governança de Dados, Segurança, Ética em IA.
+- ✅**Statistical Methods for DS & ML:** Estatística, Pandas, NumPy, Matplotlib, Testes de Hipótese, Introdução a Machine Learning, Mineração de Texto e Imagem.
+- ✅**Building Data-Driven Applications:** Python & PL/SQL, Streamlit, Looker Studio, APIs, Web Scraping, Procedures, Triggers e Automação.
 
 ### 📘 2º Ano – 2027
-- **Data Protection & Ingestion Solutions:** Backup & Disaster Recovery, Replicação & CDC, ETL com Hadoop (SQOOP), Flume, NiFi, Data Pipelines.
-- **Artificial Intelligence & Deep Learning:** Redes Neurais (ANN, CNN, LSTM), Visão Computacional, OCR & Reconhecimento de Voz, NLP & IA Generativa, Reinforcement Learning.
-- **Business Intelligence & AI Analytics:** Data Storytelling, Tableau, Power BI, Dashboards Interativos, Análise Preditiva, Sistemas de Recomendação.
-- **Applied Machine Learning & AI:** Regressão Linear, Árvores de Decisão, Random Forest, SVM, KNN, PageRank, XGBoost, Ensemble Methods, NLP & Análise de Sentimentos, Séries Temporais.
-- **Cloud Solutions & Scalable Infrastructure:** AWS, Azure, Google Cloud & OCI, Docker & Kubernetes, Serverless Computing, Multicloud & BDaaS, Segurança (Least Privilege, MFA).
-- **Data Warehousing & Advanced Integration:** Star Schema & Snowflake, SCD & Modelagem Dimensional, ETL com Azure Data Factory, Pipelines de Dados, Integração TXT, CSV, Excel, Oracle e Azure SQL.
+- ✅**Data Protection & Ingestion Solutions:** Backup & Disaster Recovery, Replicação & CDC, ETL com Hadoop (SQOOP), Flume, NiFi, Data Pipelines.
+- ✅**Artificial Intelligence & Deep Learning:** Redes Neurais (ANN, CNN, LSTM), Visão Computacional, OCR & Reconhecimento de Voz, NLP & IA Generativa, Reinforcement Learning.
+- ✅**Business Intelligence & AI Analytics:** Data Storytelling, Tableau, Power BI, Dashboards Interativos, Análise Preditiva, Sistemas de Recomendação.
+- ✅**Applied Machine Learning & AI:** Regressão Linear, Árvores de Decisão, Random Forest, SVM, KNN, PageRank, XGBoost, Ensemble Methods, NLP & Análise de Sentimentos, Séries Temporais.
+- ✅**Cloud Solutions & Scalable Infrastructure:** AWS, Azure, Google Cloud & OCI, Docker & Kubernetes, Serverless Computing, Multicloud & BDaaS, Segurança (Least Privilege, MFA).
+- ✅**Data Warehousing & Advanced Integration:** Star Schema & Snowflake, SCD & Modelagem Dimensional, ETL com Azure Data Factory, Pipelines de Dados, Integração TXT, CSV, Excel, Oracle e Azure SQL.
 
 📊 **Status:** Cursando... <br>
 🎯 **Foco:** Engenharia de Dados, Machine Learning, Cloud & Business Intelligence
@@ -149,18 +149,18 @@
 📚 **Carga Horária Total:** 2.520 Horas
 
 ### 📘 1º Ano – 2024
-- **Base Lógica & Matemática:** Lógica, Estatística, Matemática para Computação.
-- **Fundamentos Técnicos:** Fundamentos de Sistemas Operacionais, Organização de Computadores, Princípios de Sistemas de Informação, Fundamentos de Redes de Dados e Comunicação.
-- **Desenvolvimento & Engenharia:** Linguagem e Técnicas de Programação, Engenharia de Software I.
-- **Formação Transversal:** Comunicação Aplicada, Direitos Humanos, Desenvolvimento Sustentável, Educação Ambiental, Ética e Legislação Profissional, Metodologia Científica e Estudos Disciplinares.
-- **Projetos Integradores:** Projeto Integrado Multidisciplinar (PIM) I e II.
+- ✅**Base Lógica & Matemática:** Lógica, Estatística, Matemática para Computação.
+- ✅**Fundamentos Técnicos:** Fundamentos de Sistemas Operacionais, Organização de Computadores, Princípios de Sistemas de Informação, Fundamentos de Redes de Dados e Comunicação.
+- ✅**Desenvolvimento & Engenharia:** Linguagem e Técnicas de Programação, Engenharia de Software I.
+- ✅**Formação Transversal:** Comunicação Aplicada, Direitos Humanos, Desenvolvimento Sustentável, Educação Ambiental, Ética e Legislação Profissional, Metodologia Científica e Estudos Disciplinares.
+- ✅**Projetos Integradores:** Projeto Integrado Multidisciplinar (PIM) I e II.
 
 ### 📘 2º Ano – 2025
-- **Desenvolvimento & Arquitetura:** Programação Orientada a Objetos I e II, Análise de Sistemas Orientada a Objetos, Desenvolvimento de Software para Internet, Tópicos Especiais em Programação Orientada a Objetos e Projeto de Sistemas Orientado a Objetos.
-- **Dados & Interface:** Banco de Dados, Projeto de Interface com o Usuário (UI/UX).
-- **Gestão & Estratégia:** Engenharia de Software II, Gerenciamento de Projetos de Software, Gestão da Qualidade, Empreendedorismo, Gestão Estratégica de RH, Economia e Mercado e Marketing Pessoal.
-- **Inclusão & Sociedade:** Língua Brasileira de Sinais (LIBRAS) e Relações Étnico-Raciais/Afrodescendência.
-- **Projetos Integradores:** Projeto Integrado Multidisciplinar (PIM) III e IV.
+- ✅**Desenvolvimento & Arquitetura:** Programação Orientada a Objetos I e II, Análise de Sistemas Orientada a Objetos, Desenvolvimento de Software para Internet, Tópicos Especiais em Programação Orientada a Objetos e Projeto de Sistemas Orientado a Objetos.
+- ✅**Dados & Interface:** Banco de Dados, Projeto de Interface com o Usuário (UI/UX).
+- ✅**Gestão & Estratégia:** Engenharia de Software II, Gerenciamento de Projetos de Software, Gestão da Qualidade, Empreendedorismo, Gestão Estratégica de RH, Economia e Mercado e Marketing Pessoal.
+- ✅**Inclusão & Sociedade:** Língua Brasileira de Sinais (LIBRAS) e Relações Étnico-Raciais/Afrodescendência.
+- ✅**Projetos Integradores:** Projeto Integrado Multidisciplinar (PIM) III e IV.
 
 📊 **Status:** 100% das disciplinas concluídas e aprovação geral de 8,1/10,0 <br>
 🎯 **Foco:** Formação sólida em ciclo de vida de software, desde a infraestrutura e lógica até a gestão e desenvolvimento full-stack.
