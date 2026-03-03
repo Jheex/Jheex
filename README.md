@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/JhonatanLima.png" alt="Banner Jhonatan Lima - Full Stack & Data Scientist" width="100%">
+  <img src="assets/Jhonatan.png" alt="Banner Jhonatan Lima - Full Stack & Data Scientist" width="100%">
 </p>
 
 ## 🤵🏻 Biografia
