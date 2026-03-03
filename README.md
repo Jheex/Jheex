@@ -116,9 +116,9 @@
   <img src="./assets/banner-fiap.png" alt="Banner FIAP" width="100%">
 </p>
 
-📚 **Curso:** Data Science – Big Data, BI & Data Engineering
-🎖️ **Grau:** Tecnólogo
-🏛️ **Instituição:** Faculdade de Informática e Administração Paulista - FIAP
+📚 **Curso:** Data Science – Big Data, BI & Data Engineering <br>
+🎖️ **Grau:** Tecnólogo <br>
+🏛️ **Instituição:** Faculdade de Informática e Administração Paulista - FIAP <br>
 ⏱️ **Carga Horária:** 2.000 horas
 
 ### 📘 1º Ano – 2026
@@ -149,9 +149,9 @@
   <img src="./assets/banner-unip.png" alt="Banner UNIP" width="100%">
 </p>
 
-📚 **Curso:** Análise e Desenvolvimento de Sistemas
-🎖️ **Grau:** Tecnólogo
-🏛️ **Instituição:** Universidade Paulista - UNIP
+📚 **Curso:** Análise e Desenvolvimento de Sistemas <br>
+🎖️ **Grau:** Tecnólogo <br>
+🏛️ **Instituição:** Universidade Paulista - UNIP <br>
 ⏱️ **Carga Horária:** 2.520 horas
 
 ### 📘 1º Ano – 2024
