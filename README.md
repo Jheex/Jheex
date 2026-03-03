@@ -116,7 +116,10 @@
   <img src="./assets/banner-fiap.png" alt="Banner FIAP" width="100%">
 </p>
 
-📚 **Carga Horária:** 2000 horas
+📚 **Curso:** Data Science – Big Data, BI & Data Engineering
+🎖️ **Grau:** Tecnólogo
+🏛️ **Instituição:** Faculdade de Informática e Administração Paulista - FIAP
+⏱️ **Carga Horária:** 2.000 horas
 
 ### 📘 1º Ano – 2026
 - ✅**Modern Data Architecture & Engineering:** Big Data, Hadoop, Spark, Data Lakes, Kafka, ELK, Redshift, BigQuery, Snowflake, Cloud AWS/Google Cloud, Governança & Segurança.
@@ -146,7 +149,10 @@
   <img src="./assets/banner-unip.png" alt="Banner UNIP" width="100%">
 </p>
 
-📚 **Carga Horária Total:** 2.520 Horas
+📚 **Curso:** Análise e Desenvolvimento de Sistemas
+🎖️ **Grau:** Tecnólogo
+🏛️ **Instituição:** Universidade Paulista - UNIP
+⏱️ **Carga Horária:** 2.520 horas
 
 ### 📘 1º Ano – 2024
 - ✅**Base Lógica & Matemática:** Lógica, Estatística, Matemática para Computação.
