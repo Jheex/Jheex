@@ -171,44 +171,46 @@
 
 ## 💼 Experiência Profissional
 
+---
+
+## 💼 Experiência Profissional
+
 <details>
   <summary><b>🧪 Anidrol Indústria Química | Auxiliar & Estagiário de TI</b></summary>
   <br>
-  <p><i>Auxiliar de TI - Janeiro de 2026 – Atualmente (Diadema, SP)</i></p>
-  <p><i>Estagiário de TI - Maio de 2025 – Janeiro de 2026 (Diadema, SP)</i></p>
+  <p><i>👨‍💻 Auxiliar de TI: Janeiro de 2026 – Atualmente (Diadema, SP)</i></p>
+  <p><i>🎓 Estagiário de TI: Maio de 2025 até Janeiro de 2026 (Diadema, SP)</i></p>
 
   **Atuação 360º em Tecnologia da Informação:**
-  * **Infraestrutura & Redes:** Gestão de usuários via **Active Directory (AD)**, manutenção de hardware, limpeza técnica e suporte a redes.
-  * **Sistemas & Software:** Administração de plataformas como **Bitrix24**, **E2CORP (ERP)**, Windows Server e suporte especializado em Microsoft Office 365.
-  * **Suporte Remoto & Presencial:** Atendimento N1/N2 utilizando ferramentas como **AnyDesk**, **GoTo** e Outlook.
-  * **Data Analytics:** Criação de dashboards e relatórios utilizando **Power BI** e Excel avançado para suporte à decisão.
+  * **🌐 Infraestrutura & Redes:** Gestão de usuários via **Active Directory (AD)**, manutenção de hardware, limpeza técnica e suporte a redes.
+  * **🖥️ Sistemas & Software:** Administração de plataformas como **Bitrix24**, **E2CORP (ERP)**, Windows Server e suporte especializado em Microsoft Office 365.
+  * **🛠️ Suporte Remoto & Presencial:** Atendimento N1/N2 utilizando ferramentas como **AnyDesk**, **GoTo** e Outlook.
+  * **📊 Data Analytics:** Criação de dashboards e relatórios utilizando **Power BI** e Excel avançado para suporte à decisão.
 </details>
 
 <details>
   <summary><b>🏭 YOFC Poliron | Aprendiz & Estagiário de Logística</b></summary>
   <br>
-  <p><i>abr de 2023 – abr de 2025</i></p>
-
-  <p><i>Estagiário de Logística - Abril de 2024 – Maio de 2025 (Diadema, SP)</i></p>
-  <p><i>Aprendiz de Logística - Abril de 2023 – Abril de 2024 (Diadema, SP)</i></p>
+  <p><i>🎓 Estagiário de Logística: Abril de 2024 – Maio de 2025 (Diadema, SP)</i></p>
+  <p><i>📝 Aprendiz de Logística: Abril de 2023 – Abril de 2024 (Diadema, SP)</i></p>
 
   **Foco em Operações de Dados e Processos:**
-  * **Gestão de ERP:** Operação intensa com **TOTVS Protheus**, atuando em faturamento, romaneios, minutas e gestão de transportadoras.
-  * **Automação de Processos:** Desenvolvimento de **automações em VBA** para otimizar planilhas de controle e fluxos de trabalho.
-  * **Digitalização:** Implementação de processos de digitalização de arquivos e organização de fluxos documentais.
-  * **Comunicação Corporativa:** Uso avançado de Microsoft Teams, Outlook e ferramentas de colaboração para integração logística.
+  * **📦 Gestão de ERP:** Operação intensa com **TOTVS Protheus**, atuando em faturamento, romaneios, minutas e gestão de transportadoras.
+  * **⚙️ Automação de Processos:** Desenvolvimento de **automações em VBA** para otimizar planilhas de controle e fluxos de trabalho.
+  * **📂 Digitalização:** Implementação de processos de digitalização de arquivos e organização de fluxos documentais.
+  * **💬 Comunicação Corporativa:** Uso avançado de Microsoft Teams, Outlook e ferramentas de colaboração para integração logística.
 </details>
 
 <details>
   <summary><b>🎨 Freelance | Design Gráfico & Desenvolvimento</b></summary>
   <br>
-  <p><i>Atuação recorrente</i></p>
+  <p><i>🚀 Atuação recorrente</i></p>
 
   **Soluções Visuais e Técnicas sob demanda:**
-  * **Identidade Visual:** Criação de logotipos, artes para redes sociais e materiais institucionais.
-  * **Produção Digital:** Edição profissional de fotos, criação de calendários e layouts personalizados.
-  * **Desenvolvimento:** Projetos pontuais de software e suporte técnico de TI para clientes diversos.
-  * **Ferramentas:** Adobe Photoshop, Illustrator, CorelDRAW e Canva.
+  * **🖋️ Identidade Visual:** Criação de logotipos, artes para redes sociais e materiais institucionais.
+  * **📸 Produção Digital:** Edição profissional de fotos, criação de calendários e layouts personalizados.
+  * **💻 Desenvolvimento:** Projetos pontuais de software e suporte técnico de TI para clientes diversos.
+  * **🎨 Ferramentas:** Adobe Photoshop, Illustrator, CorelDRAW e Canva.
 </details>
 
 ---
