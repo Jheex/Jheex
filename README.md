@@ -110,7 +110,7 @@
 ## 🎓 Formação Acadêmica
 
 <details>
-  <summary><b>🎓 Data Science – Big Data, BI & Data Engineering | FIAP (2026–2027)</b></summary> <br>
+  <summary><b>📊 Data Science – Big Data, BI & Data Engineering | FIAP (2026–2027)</b></summary> <br>
 
 <p align="center">
   <img src="./assets/banner-fiap.png" alt="Banner FIAP" width="100%">
@@ -140,7 +140,7 @@
 </details>
 
 <details>
-  <summary><b>🎓 Análise e Desenvolvimento de Sistemas | UNIP (2024–2025)</b></summary> <br>
+  <summary><b>⚙️ Análise e Desenvolvimento de Sistemas | UNIP (2024–2025)</b></summary> <br>
 
 <p align="center">
   <img src="./assets/banner-unip.png" alt="Banner UNIP" width="100%">
