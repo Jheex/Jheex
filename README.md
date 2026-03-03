@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&secondaryColor=004A92&height=250&section=header&text=Jhonatan%20Lima&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Data%20Scientist&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00d2ff&height=200&section=header&text=Jhonatan%20Lima&fontSize=90&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h1 align="center">🚀 Desenvolvedor Full Stack</h1>
