@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Jhonatan_Lima.png" alt="Banner Jhonatan Lima - Full Stack & Data Scientist" width="100%">
+  <img src="assets/JhonatanLima.png" alt="Banner Jhonatan Lima - Full Stack & Data Scientist" width="100%">
 </p>
 
 <h1 align="center">🚀 Desenvolvedor Full Stack</h1>
