@@ -24,8 +24,6 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
----
-
 ### ⚙️ Frameworks & Plataformas
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -33,23 +31,17 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
----
-
 ### 📊 Data Science & BI
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
 
----
-
 ### 🔐 Banco de Dados
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
-
----
 
 ### 🌐 Desenvolvimento Web
 <p>
@@ -58,22 +50,16 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
----
-
 ### 📱 Desenvolvimento Mobile
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
-
----
 
 ### 🏢 Sistemas ERP
 <p>
   <img src="https://img.shields.io/badge/TOTVS_Protheus-004A92?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AOKI_E2CORP-2E7D32?style=for-the-badge" />
 </p>
-
----
 
 ### 🎭 Design Gráfico & UX/UI
 <p>
@@ -85,8 +71,6 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
----
-
 ### 📠 Infraestrutura & Corporativo
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -95,14 +79,12 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
 
----
-
 ### ☁️ Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<hr/>
+---
 
 ## 🎓 Formação Acadêmica
 
