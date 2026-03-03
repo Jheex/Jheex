@@ -94,10 +94,6 @@
 
 <hr/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=700000,ff0000&height=100&section=header&text=Graduações&fontSize=50&fontAlignY=50&animation=fadeIn" />
-</p>
-
 ## 🎓 Formação Acadêmica
 
 <details>
