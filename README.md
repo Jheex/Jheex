@@ -171,14 +171,15 @@
 
 ## 💼 Experiência Profissional
 
----
-
-## 💼 Experiência Profissional
-
 <details>
   <summary><b>🧪 Anidrol Indústria Química | Auxiliar & Estagiário de TI</b></summary>
   <br>
-  <p><i>👨‍💻 Auxiliar de TI: Janeiro de 2026 – Atualmente (Diadema, SP)</i></p>
+
+  <p align="center">
+    <img src="./assets/anidrol.png" alt="Banner Anidrol" width="100%">
+  </p>
+
+  <p><i>🖥️ Auxiliar de TI: Janeiro de 2026 – Atualmente (Diadema, SP)</i></p>
   <p><i>🎓 Estagiário de TI: Maio de 2025 até Janeiro de 2026 (Diadema, SP)</i></p>
 
   **Atuação 360º em Tecnologia da Informação:**
@@ -191,6 +192,11 @@
 <details>
   <summary><b>🏭 YOFC Poliron | Aprendiz & Estagiário de Logística</b></summary>
   <br>
+
+  <p align="center">
+    <img src="./assets/yofc.png" alt="Banner YOFC Brasil" width="100%">
+  </p>
+
   <p><i>🎓 Estagiário de Logística: Abril de 2024 – Maio de 2025 (Diadema, SP)</i></p>
   <p><i>📝 Aprendiz de Logística: Abril de 2023 – Abril de 2024 (Diadema, SP)</i></p>
 
@@ -213,7 +219,6 @@
   * **🎨 Ferramentas:** Adobe Photoshop, Illustrator, CorelDRAW e Canva.
 </details>
 
----
 <hr/>
 
 ## 🚀 Projetos em Destaque
