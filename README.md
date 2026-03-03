@@ -186,7 +186,7 @@
     <img src="./assets/achadinhosdaana.png" alt="Preview Achadinhos da Ana" width="100%">
   </p>
 
-  **🔗 Link:** [Acessar Projeto](https://achadinhos-da-ana.onrender.com/)
+  **🔗 Link:** [https://achadinhos-da-ana.onrender.com/](https://achadinhos-da-ana.onrender.com/)
 
   **Descrição:**
   Aplicação web desenvolvida com Django, utilizando banco de dados relacional para gerenciamento dinâmico de produtos. 
@@ -229,7 +229,7 @@
   <summary><b>🏗️ DDM Engenharia Civil</b></summary>
   <br>
   <p align="center">
-    <img src="./assets/ddm.jpng" alt="Preview DDM" width="100%">
+    <img src="./assets/ddm.png" alt="Preview DDM" width="100%">
   </p>
 
   **🔗 Link:** [Acessar Website](https://ddmeng.com.br/)
