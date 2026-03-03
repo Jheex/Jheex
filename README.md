@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&secondaryColor=ff0000&height=250&section=header&text=Jhonatan%20Lima&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20|%20Data%20Scientist&descAlignY=55&descSize=20&fontColor=ffffff" />
+  <img src="assets/Jhonatan_Lima.png" alt="Banner Jhonatan Lima - Full Stack & Data Scientist" width="100%">
 </p>
 
 <h1 align="center">🚀 Desenvolvedor Full Stack</h1>
