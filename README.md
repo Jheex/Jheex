@@ -58,13 +58,13 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
 ### 📱 Desenvolvimento Mobile
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
@@ -112,53 +112,175 @@
 <details>
   <summary><b>🎓 Data Science – Big Data, BI & Data Engineering | FIAP (2026–2027)</b></summary>
 
-📌 Graduação com foco em:
-- Engenharia de Dados
-- Big Data & Analytics
-- Business Intelligence
-- Machine Learning
-- Arquitetura de Dados
-- Cloud & Data Pipeline
+📚 **Carga Horária:** 2000 horas
 
-</details>
+---
 
-<br/>
+## 📘 1º Ano – 2026
+
+### 🏗️ Modern Data Architecture & Engineering
+- Big Data & Computação Distribuída  
+- Hadoop, Spark e Data Lakes  
+- Kafka, ELK Stack  
+- Redshift, BigQuery, Snowflake  
+- Arquitetura em Cloud (AWS & Google Cloud)  
+- Governança e Segurança em Big Data  
+
+### 🗄️ Data Architecture, Analytics & NoSQL
+- Linux para ambientes de dados  
+- Oracle (Relacional)  
+- MongoDB, Cassandra, Redis, Neo4J  
+- Elasticsearch, Logstash e Kibana  
+- Cloud: AWS, Google Cloud e OCI  
+
+### 🧠 Smart SQL & Relational Database
+- Modelagem relacional e normalização  
+- JOINs, Subqueries, Aggregations  
+- Otimização de consultas  
+- Integração IA → SQL  
+
+### 🔐 Data Ethics, Governance & Security
+- LGPD & GDPR  
+- Governança de Dados  
+- Segurança Cibernética  
+- Ética em IA  
+
+### 📊 Statistical Methods for Data Science & ML
+- Estatística aplicada  
+- Pandas, NumPy, Matplotlib  
+- Correlação e Testes de Hipótese  
+- Introdução a Machine Learning  
+- Mineração de Texto e Imagem  
+
+### 🖥️ Building Data-Driven Applications
+- Python & PL/SQL  
+- Streamlit & Looker Studio  
+- APIs & Web Scraping  
+- Procedures, Triggers e Automação  
+
+---
+
+## 📘 2º Ano – 2027
+
+### 🛡️ Data Protection & Ingestion Solutions
+- Backup & Disaster Recovery  
+- Replicação & CDC  
+- ETL com Hadoop (SQOOP)  
+- Flume & NiFi  
+- Data Pipelines  
+
+### 🤖 Artificial Intelligence & Deep Learning
+- Redes Neurais (ANN, CNN, LSTM)  
+- Visão Computacional  
+- OCR & Reconhecimento de Voz  
+- NLP & IA Generativa  
+- Reinforcement Learning  
+
+### 📈 Business Intelligence & AI Analytics
+- Data Storytelling  
+- Tableau & Power BI  
+- Dashboards Interativos  
+- Análise Preditiva  
+- Sistemas de Recomendação  
+
+### 🧮 Applied Machine Learning & AI
+- Regressão Linear  
+- Árvores de Decisão  
+- Random Forest & SVM  
+- KNN & PageRank  
+- XGBoost & Ensemble Methods  
+- NLP & Análise de Sentimentos  
+- Séries Temporais  
+
+### ☁️ Cloud Solutions & Scalable Infrastructure
+- AWS, Azure, Google Cloud & OCI  
+- Docker & Kubernetes  
+- Serverless Computing  
+- Multicloud & BDaaS  
+- Segurança (Least Privilege, MFA)  
+
+### 🏢 Data Warehousing & Advanced Integration
+- Star Schema & Snowflake  
+- SCD & Modelagem Dimensional  
+- ETL com Azure Data Factory  
+- Pipelines de Dados  
+- Integração TXT, CSV, Excel, Oracle e Azure SQL  
+
+---
+
+📊 **Foco:** Engenharia de Dados, Machine Learning, Cloud & Business Intelligence
 
 <details>
-  <summary><b>🎓 Análise e Desenvolvimento de Sistemas | UNIP (Concluído em 2025)</b></summary>
+  <summary><b>🎓 Análise e Desenvolvimento de Sistemas | UNIP (2024–2025)</b></summary>
 
-### 📘 1º Semestre
-- Lógica  
+📚 **Foco da Graduação:** Engenharia de Software, Desenvolvimento Full Stack e Arquitetura de Sistemas  
+
+---
+
+## 📘 1º Ano – 2024 – Fundamentos da Computação
+
+### 🧠 Base Lógica & Matemática
+- Lógica de Programação  
 - Estatística  
+- Matemática aplicada à Computação  
+
+### 💻 Fundamentos Técnicos
 - Fundamentos de Sistemas Operacionais  
 - Organização de Computadores  
 - Princípios de Sistemas de Informação  
+
+### 🛠️ Projeto Integrador
 - Projeto Integrado Multidisciplinar I  
 
-### 📘 2º Semestre
+---
+
+### 🏗️ Engenharia & Programação
 - Engenharia de Software I  
 - Linguagem e Técnicas de Programação  
+
+### 🌐 Infraestrutura & Redes
 - Fundamentos de Redes de Dados  
+
+### 📊 Base Analítica
 - Matemática para Computação  
+
+### 🛠️ Projeto Integrador
 - Projeto Integrado Multidisciplinar II  
 
-### 📘 3º Semestre
+---
+
+## 📘 2º Ano – 2025 – Backend & Arquitetura Orientada a Objetos
+
+### 🗄️ Dados & Persistência
 - Banco de Dados  
+
+### 🧩 Programação Orientada a Objetos
 - Programação Orientada a Objetos I  
 - Análise de Sistemas Orientada a Objetos  
+
+### 🏗️ Engenharia Avançada
 - Engenharia de Software II  
 - Projeto de Interface com o Usuário  
+
+### 🛠️ Projeto Integrador
 - Projeto Integrado Multidisciplinar III  
 
-### 📘 4º Semestre
+### 🌍 Desenvolvimento Web
 - Programação Orientada a Objetos II  
 - Desenvolvimento de Software para Internet  
+
+### 📋 Gestão & Processos
 - Gerenciamento de Projetos de Software  
-- Projeto Integrado Multidisciplinar IV  
 - Empreendedorismo  
 - Gestão da Qualidade  
 
-📊 **Status:** Todas as disciplinas aprovadas.
+### 🛠️ Projeto Integrador
+- Projeto Integrado Multidisciplinar IV  
+
+---
+
+📊 **Status:** Todas as disciplinas concluídas com aprovação.  
+🎯 **Resultado:** Base sólida em Arquitetura de Sistemas, Desenvolvimento Web, Banco de Dados e Engenharia de Software.
 
 </details>
 
