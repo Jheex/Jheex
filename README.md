@@ -24,6 +24,12 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+</p>
+
 ### 🗄️ Banco de Dados
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -56,7 +62,6 @@
 
 ### 📱 Desenvolvimento Mobile
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
@@ -83,6 +88,75 @@
 - **Freelance Design** — Identidade visual e design profissional
 
 ---
+<hr/>
+
+## 🚀 Projetos em Destaque
+
+### 🚀 Achadinhos da Ana (Web App Full Stack)
+🔗 https://achadinhos-da-ana.onrender.com/
+
+**Descrição:**  
+Aplicação web desenvolvida com Django, utilizando banco de dados relacional para gerenciamento dinâmico de produtos.  
+Sistema estruturado com backend robusto, rotas organizadas e renderização dinâmica de conteúdo.
+
+**Tecnologias utilizadas:**  
+Python • Django • Banco de Dados SQL • HTML • CSS • JavaScript
+
+**Diferenciais técnicos:**  
+- Backend estruturado em Django  
+- Integração com banco de dados  
+- Renderização dinâmica de dados  
+- Deploy em ambiente cloud (Render)  
+- Arquitetura MVC (Model-View-Template)
+
+### 🌐 Solutiuns
+🔗 https://www.solutiuns.com.br/
+
+**Descrição:**  
+Website institucional moderno e responsivo desenvolvido para a Solutiuns, com foco em apresentação de serviços, informações corporativas e contato integrado.  
+O projeto prioriza usabilidade e experiência do usuário com navegação fluida e design limpo.
+
+**Tecnologias utilizadas:**  
+HTML • CSS • JavaScript • PHP
+
+**Principais diferenciais:**  
+- Layout responsivo para desktop e mobile  
+- Estrutura semântica e SEO básico  
+- Navegação intuitiva e otimizada
+
+---
+
+### 🌐 DDMeng
+🔗 https://ddmeng.com.br/
+
+**Descrição:**  
+Site profissional para a DDMeng, uma empresa do setor de engenharia.  
+O projeto apresenta portfólio de serviços, seções sobre expertise da empresa e integração de contato para geração de leads.
+
+**Tecnologias utilizadas:**  
+HTML • CSS • JavaScript • PHP
+
+**Principais diferenciais:**  
+- Design orientado à conversão de visitantes em contatos  
+- Seções bem organizadas destacando serviços e diferenciais  
+- Ênfase em clareza visual e performance
+
+---
+
+### 🌐 RRF Soluções
+🔗 https://www.rrfsolucoes.com.br/
+
+**Descrição:**  
+Website corporativo desenvolvido para a RRF Soluções, com objetivo de apresentar soluções empresariais e facilitar o contato com o público-alvo.  
+Projeto com visual profissional e foco em identidade da marca.
+
+**Tecnologias utilizadas:**  
+HTML • CSS • JavaScript • PHP
+
+**Principais diferenciais:**  
+- Interface moderna com foco na marca  
+- Estrutura de conteúdo clara e organizada  
+- Compatibilidade com dispositivos móveis
 
 ## 🏆 Certificações
 <details>
