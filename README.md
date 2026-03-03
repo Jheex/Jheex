@@ -326,9 +326,12 @@ Use exatamente assim 👇
 🏆 Cursos e Certificações
 
 🌍 Idiomas
+- ✅Espanhol - Conhecendo novas pessoas — Alura (2026)
 - ✅Michigan English Test (MET) — 2022
 
 📊 Dados, IA & Tecnologia
+- ✅Dominando Internet Of Things - FIAP (2026)
+- ✅Matemática para Data Science - Alura (2026)
 - ✅Introduction to Data Science — Cisco Networking Academy (2025)
 - ✅Princípios básicos de Machine Learning — Microsoft Learn (2024)
 - ✅Implementando Banco de Dados — Fundação Bradesco (2024)
@@ -337,6 +340,8 @@ Use exatamente assim 👇
 - ✅Introduction to IoT — Cisco Networking Academy (2024)
 
 🐍 Programação & Desenvolvimento Web
+- ✅Lógica de programação - FIAP (2026)
+- ✅Python para Dados: Primeiros Passos - Alura (2026)
 - ✅Python Essentials 1 — Cisco Networking Academy (2024)
 - ✅Fundamentos do Python 1 — SENAI (2024)
 - ✅Crie um site simples usando HTML, CSS e JavaScript — Fundação Bradesco (2024)
@@ -362,6 +367,7 @@ Use exatamente assim 👇
 - ✅Competência Transversal: Tecnologia da Informação e Comunicação — SENAI (2024)
 
 🎓 Formação Complementar & Carreira
+- ✅Matemática - FIAP (2026)
 - ✅Introdução à Construção de Carreira — Estudante.dev (2024)
 - ✅Formação Básica para o Mundo do Trabalho — Sodiprom (2022)
 
