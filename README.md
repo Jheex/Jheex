@@ -113,7 +113,7 @@
   <summary><b>🎓 Data Science – Big Data, BI & Data Engineering | FIAP (2026–2027)</b></summary> <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ed1c24&height=100&section=header&text=FIAP%20-%20DATA%20SCIENCE&fontSize=40&fontColor=ffffff" />
+  <img src="./assets/banner-fiap.png" alt="Banner FIAP" width="100%">
 </p>
 
 📚 **Carga Horária:** 2000 horas
@@ -143,10 +143,10 @@
   <summary><b>🎓 Análise e Desenvolvimento de Sistemas | UNIP (2024–2025)</b></summary> <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=003399&height=100&section=header&text=UNIP%20-%20ADS&fontSize=40&fontColor=ffffff" />
+  <img src="./assets/banner-unip.png" alt="Banner UNIP" width="100%">
 </p>
 
-📚 **Carga Horária Total:** 2.520 Horas (Considerando disciplinas, PIM e Atividades Complementares)
+📚 **Carga Horária Total:** 2.520 Horas
 
 ### 📘 1º Ano – 2024
 - **Base Lógica & Matemática:** Lógica, Estatística, Matemática para Computação.
