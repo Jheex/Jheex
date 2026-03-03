@@ -112,6 +112,10 @@
 <details>
   <summary><b>🎓 Data Science – Big Data, BI & Data Engineering | FIAP (2026–2027)</b></summary> <br>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ed1c24&height=100&section=header&text=FIAP%20-%20DATA%20SCIENCE&fontSize=40&fontColor=ffffff" />
+</p>
+
 📚 **Carga Horária:** 2000 horas
 
 ### 📘 1º Ano – 2026
@@ -138,6 +142,10 @@
 <details>
   <summary><b>🎓 Análise e Desenvolvimento de Sistemas | UNIP (2024–2025)</b></summary> <br>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=003399&height=100&section=header&text=UNIP%20-%20ADS&fontSize=40&fontColor=ffffff" />
+</p>
+
 📚 **Carga Horária Total:** 2.520 Horas (Considerando disciplinas, PIM e Atividades Complementares)
 
 ### 📘 1º Ano – 2024
@@ -154,7 +162,7 @@
 - **Inclusão & Sociedade:** Língua Brasileira de Sinais (LIBRAS) e Relações Étnico-Raciais/Afrodescendência.
 - **Projetos Integradores:** Projeto Integrado Multidisciplinar (PIM) III e IV.
 
-📊 **Status:** 100% das disciplinas concluídas e aprovação geral de 8,1% <br>
+📊 **Status:** 100% das disciplinas concluídas e aprovação geral de 8,1/10,0 <br>
 🎯 **Foco:** Formação sólida em ciclo de vida de software, desde a infraestrutura e lógica até a gestão e desenvolvimento full-stack.
 
 </details>
