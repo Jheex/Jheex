@@ -210,7 +210,7 @@
     <img src="./assets/solutiuns.png" alt="Preview Solutiuns" width="100%">
   </p>
 
-  **🔗 Link:** [Acessar Website](https://www.solutiuns.com.br/)
+  **🔗 Link:** [https://www.solutiuns.com.br/](https://www.solutiuns.com.br/)
 
   **Descrição:**
   Website institucional moderno e responsivo focado em Engenharia de Sistemas, Infraestrutura e Segurança Digital. 
@@ -229,10 +229,10 @@
   <summary><b>🏗️ DDM Engenharia Civil</b></summary>
   <br>
   <p align="center">
-    <img src="./assets/ddm.png" alt="Preview DDM" width="100%">
+    <img src="./assets/ddmengenharia.png" alt="Preview DDM" width="100%">
   </p>
 
-  **🔗 Link:** [Acessar Website](https://ddmeng.com.br/)
+  **🔗 Link:** [https://ddmeng.com.br/](https://ddmeng.com.br/)
 
   **Descrição:**
   Site profissional para o setor de engenharia. O projeto apresenta portfólio de serviços, seções sobre expertise da empresa e integração de contato para geração de leads.
@@ -253,7 +253,7 @@
     <img src="./assets/rrf.png" alt="Preview RRF" width="100%">
   </p>
 
-  **🔗 Link:** [Acessar Website](https://www.rrfsolucoes.com.br/)
+  **🔗 Link:** [https://www.rrfsolucoes.com.br/](https://www.rrfsolucoes.com.br/)
 
   **Descrição:**
   Website corporativo para a RRF Soluções, com foco em apresentar soluções em elétrica e infraestrutura nacional. Projeto com visual profissional e foco em identidade da marca.
