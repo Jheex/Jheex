@@ -13,7 +13,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 ---
 
 <p align="center"> 
-  <img src="assets/software.png" alt="Banner software" width="60%" height="300px">
+  <img src="assets/software.png" alt="Banner software" width="100%" height="300px">
 </p>
 
 ## 🛠️ Tecnologia e Software
