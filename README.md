@@ -83,6 +83,9 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 </p>
 
 ---
+<p align="center">
+  <img src="assets/faculdades.png" alt="Banner Jhonatan Lima - Full Stack & Data Scientist" width="100%">
+</p>
 
 ## 🎓 Formação Acadêmica
 
