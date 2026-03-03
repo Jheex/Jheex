@@ -12,7 +12,11 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+<p align="center">
+  <img src="assets/software.png" alt="Banner software" width="100%">
+</p>
+
+## 🛠️ Tecnologia e Software
 
 ### 💻 Linguagens de Programação
 <p>
@@ -83,8 +87,9 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 </p>
 
 ---
+
 <p align="center">
-  <img src="assets/faculdades.png" alt="Banner Jhonatan Lima - Full Stack & Data Scientist" width="100%">
+  <img src="assets/faculdades.png" alt="Faculdades" width="100%">
 </p>
 
 ## 🎓 Formação Acadêmica
@@ -155,6 +160,10 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 
 ---
 
+<p align="center">
+  <img src="assets/profissao.png" alt="profissão" width="100%">
+</p>
+
 ## 💼 Experiência Profissional
 
 <details>
@@ -205,7 +214,11 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   * **🎨 Ferramentas:** Adobe Photoshop, Illustrator, CorelDRAW e Canva.
 </details>
 
-<hr/>
+---
+
+<p align="center">
+  <img src="assets/projetos.png" alt="projetos" width="100%">
+</p>
 
 ## 🚀 Projetos em Destaque
 
@@ -299,6 +312,10 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 
 ---
 
+<p align="center">
+  <img src="assets/certificados.png" alt="Certificados" width="100%">
+</p>
+
 ## 🏆 Certificações
 <details>
   <summary><b>🔥 Clique para ver certificados</b></summary>
@@ -358,7 +375,11 @@ Use exatamente assim 👇
 
 </details>
 
-<hr/>
+---
+
+<p align="center">
+  <img src="assets/contato.png" alt="Contato" width="100%">
+</p>
 
 ## 📬 Contato
 <p>
