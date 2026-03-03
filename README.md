@@ -110,11 +110,9 @@
 ## 🎓 Formação Acadêmica
 
 <details>
-  <summary><b>🎓 Data Science – Big Data, BI & Data Engineering | FIAP (2026–2027)</b></summary>
+  <summary><b>🎓 Data Science – Big Data, BI & Data Engineering | FIAP (2026–2027)</b></summary> <br>
 
 📚 **Carga Horária:** 2000 horas
-
----
 
 ### 📘 1º Ano – 2026
 - **Modern Data Architecture & Engineering:** Big Data, Hadoop, Spark, Data Lakes, Kafka, ELK, Redshift, BigQuery, Snowflake, Cloud AWS/Google Cloud, Governança & Segurança.
@@ -138,11 +136,9 @@
 </details>
 
 <details>
-  <summary><b>🎓 Análise e Desenvolvimento de Sistemas | UNIP (2024–2025)</b></summary>
+  <summary><b>🎓 Análise e Desenvolvimento de Sistemas | UNIP (2024–2025)</b></summary> <br>
 
 📚 **Carga Horária Total:** 2.520 Horas (Considerando disciplinas, PIM e Atividades Complementares)
-
----
 
 ### 📘 1º Ano – 2024
 - **Base Lógica & Matemática:** Lógica, Estatística, Matemática para Computação.
