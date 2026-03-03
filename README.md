@@ -2,19 +2,6 @@
   <img src="assets/JhonatanLima.png" alt="Banner Jhonatan Lima - Full Stack & Data Scientist" width="100%">
 </p>
 
-<h1 align="center">🚀 Desenvolvedor Full Stack</h1>
-<h1 align="center">📊 Cientista de Dados</h1>
-
-<p align="center">
-  <b>💡 Atualmente focado em converter dados em decisões inteligentes.</b><br/>
-  Unindo a base sólida de <b>Análise e Desenvolvimento de Sistemas</b> com a especialização em<br/>
-  <b>Data Science: Big Data e Engenharia de Dados (FIAP)</b>.<br/>
-  Background em <b>Design Gráfico Profissional</b>, entregando soluções funcionais,<br/>
-  intuitivas e visualmente profissionais.
-</p>
-
-<hr/>
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ---
