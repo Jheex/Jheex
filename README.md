@@ -116,99 +116,25 @@
 
 ---
 
-## 📘 1º Ano – 2026
+### 📘 1º Ano – 2026
+- **Modern Data Architecture & Engineering:** Big Data, Hadoop, Spark, Data Lakes, Kafka, ELK, Redshift, BigQuery, Snowflake, Cloud AWS/Google Cloud, Governança & Segurança  
+- **Data Architecture, Analytics & NoSQL:** Linux, Oracle, MongoDB, Cassandra, Redis, Neo4J, ELK, Cloud AWS/Google/OCI  
+- **Smart SQL & Relational Database:** Modelagem relacional, SQL, JOINs, Subqueries, Aggregations, Integração com IA  
+- **Data Ethics, Governance & Security:** LGPD/GDPR, Governança de Dados, Segurança, Ética em IA  
+- **Statistical Methods for DS & ML:** Estatística, Pandas, NumPy, Matplotlib, Testes de Hipótese, Introdução a Machine Learning, Mineração de Texto e Imagem  
+- **Building Data-Driven Applications:** Python & PL/SQL, Streamlit, Looker Studio, APIs, Web Scraping, Procedures, Triggers e Automação  
 
-### 🏗️ Modern Data Architecture & Engineering
-- Big Data & Computação Distribuída  
-- Hadoop, Spark e Data Lakes  
-- Kafka, ELK Stack  
-- Redshift, BigQuery, Snowflake  
-- Arquitetura em Cloud (AWS & Google Cloud)  
-- Governança e Segurança em Big Data  
-
-### 🗄️ Data Architecture, Analytics & NoSQL
-- Linux para ambientes de dados  
-- Oracle (Relacional)  
-- MongoDB, Cassandra, Redis, Neo4J  
-- Elasticsearch, Logstash e Kibana  
-- Cloud: AWS, Google Cloud e OCI  
-
-### 🧠 Smart SQL & Relational Database
-- Modelagem relacional e normalização  
-- JOINs, Subqueries, Aggregations  
-- Otimização de consultas  
-- Integração IA → SQL  
-
-### 🔐 Data Ethics, Governance & Security
-- LGPD & GDPR  
-- Governança de Dados  
-- Segurança Cibernética  
-- Ética em IA  
-
-### 📊 Statistical Methods for Data Science & ML
-- Estatística aplicada  
-- Pandas, NumPy, Matplotlib  
-- Correlação e Testes de Hipótese  
-- Introdução a Machine Learning  
-- Mineração de Texto e Imagem  
-
-### 🖥️ Building Data-Driven Applications
-- Python & PL/SQL  
-- Streamlit & Looker Studio  
-- APIs & Web Scraping  
-- Procedures, Triggers e Automação  
-
----
-
-## 📘 2º Ano – 2027
-
-### 🛡️ Data Protection & Ingestion Solutions
-- Backup & Disaster Recovery  
-- Replicação & CDC  
-- ETL com Hadoop (SQOOP)  
-- Flume & NiFi  
-- Data Pipelines  
-
-### 🤖 Artificial Intelligence & Deep Learning
-- Redes Neurais (ANN, CNN, LSTM)  
-- Visão Computacional  
-- OCR & Reconhecimento de Voz  
-- NLP & IA Generativa  
-- Reinforcement Learning  
-
-### 📈 Business Intelligence & AI Analytics
-- Data Storytelling  
-- Tableau & Power BI  
-- Dashboards Interativos  
-- Análise Preditiva  
-- Sistemas de Recomendação  
-
-### 🧮 Applied Machine Learning & AI
-- Regressão Linear  
-- Árvores de Decisão  
-- Random Forest & SVM  
-- KNN & PageRank  
-- XGBoost & Ensemble Methods  
-- NLP & Análise de Sentimentos  
-- Séries Temporais  
-
-### ☁️ Cloud Solutions & Scalable Infrastructure
-- AWS, Azure, Google Cloud & OCI  
-- Docker & Kubernetes  
-- Serverless Computing  
-- Multicloud & BDaaS  
-- Segurança (Least Privilege, MFA)  
-
-### 🏢 Data Warehousing & Advanced Integration
-- Star Schema & Snowflake  
-- SCD & Modelagem Dimensional  
-- ETL com Azure Data Factory  
-- Pipelines de Dados  
-- Integração TXT, CSV, Excel, Oracle e Azure SQL  
-
----
+### 📘 2º Ano – 2027
+- **Data Protection & Ingestion Solutions:** Backup & Disaster Recovery, Replicação & CDC, ETL com Hadoop (SQOOP), Flume, NiFi, Data Pipelines  
+- **Artificial Intelligence & Deep Learning:** Redes Neurais (ANN, CNN, LSTM), Visão Computacional, OCR & Reconhecimento de Voz, NLP & IA Generativa, Reinforcement Learning  
+- **Business Intelligence & AI Analytics:** Data Storytelling, Tableau, Power BI, Dashboards Interativos, Análise Preditiva, Sistemas de Recomendação  
+- **Applied Machine Learning & AI:** Regressão Linear, Árvores de Decisão, Random Forest, SVM, KNN, PageRank, XGBoost, Ensemble Methods, NLP & Análise de Sentimentos, Séries Temporais  
+- **Cloud Solutions & Scalable Infrastructure:** AWS, Azure, Google Cloud & OCI, Docker & Kubernetes, Serverless Computing, Multicloud & BDaaS, Segurança (Least Privilege, MFA)  
+- **Data Warehousing & Advanced Integration:** Star Schema & Snowflake, SCD & Modelagem Dimensional, ETL com Azure Data Factory, Pipelines de Dados, Integração TXT, CSV, Excel, Oracle e Azure SQL  
 
 📊 **Foco:** Engenharia de Dados, Machine Learning, Cloud & Business Intelligence
+
+</details>
 
 <details>
   <summary><b>🎓 Análise e Desenvolvimento de Sistemas | UNIP (2024–2025)</b></summary>
@@ -217,70 +143,36 @@
 
 ---
 
-## 📘 1º Ano – 2024 – Fundamentos da Computação
+### 📘 1º Semestre – 2024
+- **Base Lógica & Matemática:** Lógica de Programação, Estatística, Matemática aplicada à Computação  
+- **Fundamentos Técnicos:** Fundamentos de Sistemas Operacionais, Organização de Computadores, Princípios de Sistemas de Informação  
+- **Projeto Integrador:** Projeto Integrado Multidisciplinar I  
 
-### 🧠 Base Lógica & Matemática
-- Lógica de Programação  
-- Estatística  
-- Matemática aplicada à Computação  
-
-### 💻 Fundamentos Técnicos
-- Fundamentos de Sistemas Operacionais  
-- Organização de Computadores  
-- Princípios de Sistemas de Informação  
-
-### 🛠️ Projeto Integrador
-- Projeto Integrado Multidisciplinar I  
-
----
-
-### 🏗️ Engenharia & Programação
+### 📘 2º Semestre – 2024
 - Engenharia de Software I  
 - Linguagem e Técnicas de Programação  
-
-### 🌐 Infraestrutura & Redes
 - Fundamentos de Redes de Dados  
-
-### 📊 Base Analítica
 - Matemática para Computação  
-
-### 🛠️ Projeto Integrador
 - Projeto Integrado Multidisciplinar II  
 
----
-
-## 📘 2º Ano – 2025 – Backend & Arquitetura Orientada a Objetos
-
-### 🗄️ Dados & Persistência
+### 📘 3º Semestre – 2025
 - Banco de Dados  
-
-### 🧩 Programação Orientada a Objetos
 - Programação Orientada a Objetos I  
 - Análise de Sistemas Orientada a Objetos  
-
-### 🏗️ Engenharia Avançada
 - Engenharia de Software II  
 - Projeto de Interface com o Usuário  
-
-### 🛠️ Projeto Integrador
 - Projeto Integrado Multidisciplinar III  
 
-### 🌍 Desenvolvimento Web
+### 📘 4º Semestre – 2025
 - Programação Orientada a Objetos II  
 - Desenvolvimento de Software para Internet  
-
-### 📋 Gestão & Processos
 - Gerenciamento de Projetos de Software  
+- Projeto Integrado Multidisciplinar IV  
 - Empreendedorismo  
 - Gestão da Qualidade  
 
-### 🛠️ Projeto Integrador
-- Projeto Integrado Multidisciplinar IV  
-
----
-
-📊 **Status:** Todas as disciplinas concluídas com aprovação.  
-🎯 **Resultado:** Base sólida em Arquitetura de Sistemas, Desenvolvimento Web, Banco de Dados e Engenharia de Software.
+📊 **Status:** Todas as disciplinas concluídas com aprovação  
+🎯 **Resultado:** Base sólida em Arquitetura de Sistemas, Desenvolvimento Web, Banco de Dados e Engenharia de Software
 
 </details>
 
