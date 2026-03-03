@@ -179,71 +179,93 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🚀 Achadinhos da Ana (Web App Full Stack)
-🔗 https://achadinhos-da-ana.onrender.com/
+<details>
+  <summary><b>🛍️ Achadinhos da Ana (Web App Full Stack)</b></summary>
+  <br>
+  <p align="center">
+    <img src="./assets/achadinhosdaana.png" alt="Preview Achadinhos da Ana" width="100%">
+  </p>
 
-**Descrição:**  
-Aplicação web desenvolvida com Django, utilizando banco de dados relacional para gerenciamento dinâmico de produtos.  
-Sistema estruturado com backend robusto, rotas organizadas e renderização dinâmica de conteúdo.
+  **🔗 Link:** [Acessar Projeto](https://achadinhos-da-ana.onrender.com/)
 
-**Tecnologias utilizadas:**  
-Python • Django • Banco de Dados SQL • HTML • CSS • JavaScript
+  **Descrição:**
+  Aplicação web desenvolvida com Django, utilizando banco de dados relacional para gerenciamento dinâmico de produtos. 
+  Sistema estruturado com backend robusto, rotas organizadas e renderização dinâmica de conteúdo.
 
-**Diferenciais técnicos:**  
-- Backend estruturado em Django  
-- Integração com banco de dados  
-- Renderização dinâmica de dados  
-- Deploy em ambiente cloud (Render)  
-- Arquitetura MVC (Model-View-Template)
+  **Tecnologias utilizadas:**
+  Python • Django • Banco de Dados SQL • HTML • CSS • JavaScript
 
-### 🌐 Solutiuns
-🔗 https://www.solutiuns.com.br/
+  **Diferenciais técnicos:**
+  * Backend estruturado em Django
+  * Integração com banco de dados
+  * Renderização dinâmica de dados
+  * Deploy em ambiente cloud (Render)
+  * Arquitetura MVC (Model-View-Template)
+</details>
 
-**Descrição:**  
-Website institucional moderno e responsivo desenvolvido para a Solutiuns, com foco em apresentação de serviços, informações corporativas e contato integrado.  
-O projeto prioriza usabilidade e experiência do usuário com navegação fluida e design limpo.
+<details>
+  <summary><b>🌐 Solutiuns Technologies</b></summary>
+  <br>
+  <p align="center">
+    <img src="./assets/solutiuns.png" alt="Preview Solutiuns" width="100%">
+  </p>
 
-**Tecnologias utilizadas:**  
-HTML • CSS • JavaScript • PHP
+  **🔗 Link:** [Acessar Website](https://www.solutiuns.com.br/)
 
-**Principais diferenciais:**  
-- Layout responsivo para desktop e mobile  
-- Estrutura semântica e SEO básico  
-- Navegação intuitiva e otimizada
+  **Descrição:**
+  Website institucional moderno e responsivo focado em Engenharia de Sistemas, Infraestrutura e Segurança Digital. 
+  O projeto prioriza usabilidade e experiência do usuário com navegação fluida e design limpo.
 
----
+  **Tecnologias utilizadas:**
+  HTML • CSS • JavaScript • PHP
 
-### 🌐 DDMeng
-🔗 https://ddmeng.com.br/
+  **Principais diferenciais:**
+  * Layout responsivo para desktop e mobile
+  * Estrutura semântica e SEO básico
+  * Navegação intuitiva e otimizada
+</details>
 
-**Descrição:**  
-Site profissional para a DDMeng, uma empresa do setor de engenharia.  
-O projeto apresenta portfólio de serviços, seções sobre expertise da empresa e integração de contato para geração de leads.
+<details>
+  <summary><b>🏗️ DDM Engenharia Civil</b></summary>
+  <br>
+  <p align="center">
+    <img src="./assets/ddm.jpng" alt="Preview DDM" width="100%">
+  </p>
 
-**Tecnologias utilizadas:**  
-HTML • CSS • JavaScript • PHP
+  **🔗 Link:** [Acessar Website](https://ddmeng.com.br/)
 
-**Principais diferenciais:**  
-- Design orientado à conversão de visitantes em contatos  
-- Seções bem organizadas destacando serviços e diferenciais  
-- Ênfase em clareza visual e performance
+  **Descrição:**
+  Site profissional para o setor de engenharia. O projeto apresenta portfólio de serviços, seções sobre expertise da empresa e integração de contato para geração de leads.
 
----
+  **Tecnologias utilizadas:**
+  HTML • CSS • JavaScript • PHP
 
-### 🌐 RRF Soluções
-🔗 https://www.rrfsolucoes.com.br/
+  **Principais diferenciais:**
+  * Design orientado à conversão de leads
+  * Seções bem organizadas destacando serviços e diferenciais
+  * Ênfase em clareza visual e performance
+</details>
 
-**Descrição:**  
-Website corporativo desenvolvido para a RRF Soluções, com objetivo de apresentar soluções empresariais e facilitar o contato com o público-alvo.  
-Projeto com visual profissional e foco em identidade da marca.
+<details>
+  <summary><b>⚡ RRF Soluções em Energia</b></summary>
+  <br>
+  <p align="center">
+    <img src="./assets/rrf.png" alt="Preview RRF" width="100%">
+  </p>
 
-**Tecnologias utilizadas:**  
-HTML • CSS • JavaScript • PHP
+  **🔗 Link:** [Acessar Website](https://www.rrfsolucoes.com.br/)
 
-**Principais diferenciais:**  
-- Interface moderna com foco na marca  
-- Estrutura de conteúdo clara e organizada  
-- Compatibilidade com dispositivos móveis
+  **Descrição:**
+  Website corporativo para a RRF Soluções, com foco em apresentar soluções em elétrica e infraestrutura nacional. Projeto com visual profissional e foco em identidade da marca.
+
+  **Tecnologias utilizadas:**
+  HTML • CSS • JavaScript • PHP
+
+  **Principais diferenciais:**
+  * Interface moderna com foco na marca
+  * Estrutura de conteúdo clara e organizada
+  * Totalmente adaptado para dispositivos móveis
+</details>
 
 ## 🏆 Certificações
 <details>
