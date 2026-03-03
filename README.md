@@ -14,8 +14,6 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 
 ## 🛠️ Tecnologias e Ferramentas
 
----
-
 ### 💻 Linguagens de Programação
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -295,6 +293,8 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   * Estrutura de conteúdo clara e organizada
   * Totalmente adaptado para dispositivos móveis
 </details>
+
+---
 
 ## 🏆 Certificações
 <details>
