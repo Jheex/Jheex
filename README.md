@@ -4,7 +4,7 @@
 
 ## 🤵🏻 Biografia
 
-Olá! Sou o **Jhonatan Lima**, um entusiasta de tecnologia em constante evolução. Atualmente, curso **Data Science na FIAP**, onde mergulho no universo de Big Data e IA, trazendo comigo uma base sólida construída em **Análise e Desenvolvimento de Sistemas**.
+Olá! Sou o Jhonatan Lima, um entusiasta de tecnologia em constante evolução. Atualmente, curso **Data Science na FIAP**, onde mergulho no universo de Big Data e IA, trazendo comigo uma base sólida construída em **Análise e Desenvolvimento de Sistemas**.
 
 Minha trajetória é marcada pela versatilidade: transitei da **logística operacional**, onde otimizei processos com VBA e ERPs (TOTVS Protheus), para a linha de frente do **Suporte e Infraestrutura de TI**. Além disso, mantenho uma veia criativa pulsante como **Designer Gráfico**, o que me permite unir a precisão dos dados com uma estética visual funcional.
 
