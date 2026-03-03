@@ -17,32 +17,68 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🤖 Ciência de Dados & Backend
+---
+
+### 💻 Linguagens de Programação
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ Frameworks & Plataformas
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Data Science & BI
+<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-</p>
+---
 
-### 🗄️ Banco de Dados
+### 🔐 Banco de Dados
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
-### 🧩 Sistemas ERP
+---
+
+### 🌐 Desenvolvimento Web
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 📱 Desenvolvimento Mobile
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+---
+
+### 🏢 Sistemas ERP
 <p>
   <img src="https://img.shields.io/badge/TOTVS_Protheus-004A92?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AOKI_E2CORP-2E7D32?style=for-the-badge" />
 </p>
 
-### 🎨 Design Gráfico & UX/UI
+---
+
+### 🎭 Design Gráfico & UX/UI
 <p>
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
@@ -52,21 +88,9 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
-### 🌐 Desenvolvimento Web
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+---
 
-### 📱 Desenvolvimento Mobile
-<p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-
-### 🛠️ Infraestrutura & Corporativo
+### 📠 Infraestrutura & Corporativo
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -74,11 +98,69 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
 
+---
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
 <hr/>
 
 ## 🎓 Formação Acadêmica
-- **Data Science – Big Data, BI & Data Engineering** | FIAP (2026–2027)
-- **Análise e Desenvolvimento de Sistemas** | UNIP (Concluído em 2025)
+
+<details>
+  <summary><b>🎓 Data Science – Big Data, BI & Data Engineering | FIAP (2026–2027)</b></summary>
+
+📌 Graduação com foco em:
+- Engenharia de Dados
+- Big Data & Analytics
+- Business Intelligence
+- Machine Learning
+- Arquitetura de Dados
+- Cloud & Data Pipeline
+
+</details>
+
+<br/>
+
+<details>
+  <summary><b>🎓 Análise e Desenvolvimento de Sistemas | UNIP (Concluído em 2025)</b></summary>
+
+### 📘 1º Semestre
+- Lógica  
+- Estatística  
+- Fundamentos de Sistemas Operacionais  
+- Organização de Computadores  
+- Princípios de Sistemas de Informação  
+- Projeto Integrado Multidisciplinar I  
+
+### 📘 2º Semestre
+- Engenharia de Software I  
+- Linguagem e Técnicas de Programação  
+- Fundamentos de Redes de Dados  
+- Matemática para Computação  
+- Projeto Integrado Multidisciplinar II  
+
+### 📘 3º Semestre
+- Banco de Dados  
+- Programação Orientada a Objetos I  
+- Análise de Sistemas Orientada a Objetos  
+- Engenharia de Software II  
+- Projeto de Interface com o Usuário  
+- Projeto Integrado Multidisciplinar III  
+
+### 📘 4º Semestre
+- Programação Orientada a Objetos II  
+- Desenvolvimento de Software para Internet  
+- Gerenciamento de Projetos de Software  
+- Projeto Integrado Multidisciplinar IV  
+- Empreendedorismo  
+- Gestão da Qualidade  
+
+📊 **Status:** Todas as disciplinas aprovadas.
+
+</details>
 
 ---
 
