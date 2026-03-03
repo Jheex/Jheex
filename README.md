@@ -130,7 +130,7 @@
 - **Cloud Solutions & Scalable Infrastructure:** AWS, Azure, Google Cloud & OCI, Docker & Kubernetes, Serverless Computing, Multicloud & BDaaS, Segurança (Least Privilege, MFA).
 - **Data Warehousing & Advanced Integration:** Star Schema & Snowflake, SCD & Modelagem Dimensional, ETL com Azure Data Factory, Pipelines de Dados, Integração TXT, CSV, Excel, Oracle e Azure SQL.
 
-🎯 **Status:** Cursando...
+🎯 **Status:** Cursando... <br>
 📊 **Foco:** Engenharia de Dados, Machine Learning, Cloud & Business Intelligence
 
 </details>
@@ -154,7 +154,7 @@
 - **Inclusão & Sociedade:** Língua Brasileira de Sinais (LIBRAS) e Relações Étnico-Raciais/Afrodescendência.
 - **Projetos Integradores:** Projeto Integrado Multidisciplinar (PIM) III e IV.
 
-📊 **Status:** 100% das disciplinas concluídas e aprovação geral de 8,1%
+📊 **Status:** 100% das disciplinas concluídas e aprovação geral de 8,1% <br>
 🎯 **Foco:** Formação sólida em ciclo de vida de software, desde a infraestrutura e lógica até a gestão e desenvolvimento full-stack.
 
 </details>
