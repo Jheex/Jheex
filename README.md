@@ -89,12 +89,6 @@ Meu ecossistema tecnológico é focado na convergência entre o desenvolvimento 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### 📊 Estatísticas de Desenvolvimento
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
-</p>
-
 ---
 
 <p align="center">
