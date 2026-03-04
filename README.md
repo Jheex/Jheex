@@ -171,6 +171,12 @@ Minha jornada acadêmica é pautada pelo equilíbrio entre a estrutura e a inova
 
 </details>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhonatanlima25/details/education/" target="_blank">
+    <img src="https://img.shields.io/badge/Visualizar_Formação_Completa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Formação Acadêmica Jhonatan Lima">
+  </a>
+</p>
+
 ---
 
 <p align="center">
