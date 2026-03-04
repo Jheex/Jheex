@@ -12,6 +12,12 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 
 ![Disponível para Projetos](https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Freelance-brightgreen)
 
+<p align="center">
+  <a href="https://github.com/Jheex/Jheex/raw/main/assets/Curriculo_2026.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Currículo_PDF-000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Currículo Jhonatan Lima">
+  </a>
+</p>
+
 ---
 
 <p align="center">
