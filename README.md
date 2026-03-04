@@ -396,8 +396,8 @@ Use exatamente assim 👇
 </details>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhonatanlima25" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Jhonatan Lima">
+  <a href="https://www.linkedin.com/in/jhonatanlima25/details/certifications/" target="_blank">
+    <img src="https://img.shields.io/badge/Veja_mais_Certificações_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificações LinkedIn Jhonatan Lima">
   </a>
 </p>
 
