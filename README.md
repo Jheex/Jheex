@@ -327,8 +327,6 @@ Nesta seção, apresento uma seleção de projetos que refletem minha capacidade
   </a>
 </p>
 
-> **🌐 Confira meu portfólio completo em:** [jheex.github.io](https://jheex.github.io/)
-
 ---
 
 <p align="center">
