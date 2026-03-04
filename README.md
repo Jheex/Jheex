@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Jhonatan.png" alt="Banner Jhonatan Lima - Full Stack & Data Scientist" width="100%">
+  <img src="assets/Jhonatan.jpg" alt="Banner Jhonatan Lima - Full Stack & Data Scientist" width="100%">
 </p>
 
 ## 🤵🏻 Biografia
@@ -13,7 +13,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 ---
 
 <p align="center">
-  <img src="assets/softwares.png" alt="Banner software" width="100%">
+  <img src="assets/softwares.jpg" alt="Banner software" width="100%">
 </p>
 
 ## 🛠️ Tecnologia e Software
@@ -90,7 +90,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 ---
 
 <p align="center">
-  <img src="assets/faculdades.png" alt="Faculdades" width="100%">
+  <img src="assets/faculdades.jpg" alt="Faculdades" width="100%">
 </p>
 
 ## 🎓 Formação Acadêmica
@@ -99,7 +99,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   <summary><b>📊 Data Science – Big Data, BI & Data Engineering | FIAP (2026–2027)</b></summary> <br>
 
 <p align="center">
-  <img src="./assets/banner-fiap.png" alt="Banner FIAP" width="100%">
+  <img src="./assets/banner-fiap.jpg" alt="Banner FIAP" width="100%">
 </p>
 
 📚 **Curso:** Data Science – Big Data, BI & Data Engineering <br>
@@ -132,7 +132,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   <summary><b>⚙️ Análise e Desenvolvimento de Sistemas | UNIP (2024–2025)</b></summary> <br>
 
 <p align="center">
-  <img src="./assets/banner-unip.png" alt="Banner UNIP" width="100%">
+  <img src="./assets/banner-unip.jpg" alt="Banner UNIP" width="100%">
 </p>
 
 📚 **Curso:** Análise e Desenvolvimento de Sistemas <br>
@@ -162,7 +162,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 ---
 
 <p align="center">
-  <img src="assets/profissao.png" alt="profissão" width="100%">
+  <img src="assets/profissao.jpg" alt="profissão" width="100%">
 </p>
 
 ## 💼 Experiência Profissional
@@ -172,7 +172,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   <br>
 
   <p align="center">
-    <img src="./assets/anidrol.png" alt="Banner Anidrol" width="100%">
+    <img src="./assets/anidrol.jpg" alt="Banner Anidrol" width="100%">
   </p>
 
   <p><i>🖥️ Auxiliar de TI: Janeiro de 2026 – Atualmente (Diadema, SP)</i></p>
@@ -190,7 +190,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   <br>
 
   <p align="center">
-    <img src="./assets/yofc.png" alt="Banner YOFC Brasil" width="100%">
+    <img src="./assets/yofc.jpg" alt="Banner YOFC Brasil" width="100%">
   </p>
 
   <p><i>🎓 Estagiário de Logística: Abril de 2024 – Maio de 2025 (Diadema, SP)</i></p>
@@ -218,7 +218,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 ---
 
 <p align="center">
-  <img src="assets/projetos.png" alt="projetos" width="100%">
+  <img src="assets/projetos.jpg" alt="projetos" width="100%">
 </p>
 
 ## 🚀 Projetos em Destaque
@@ -227,7 +227,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   <summary><b>🛍️ Achadinhos da Ana (Web App Full Stack)</b></summary>
   <br>
   <p align="center">
-    <img src="./assets/achadinhosdaana.png" alt="Preview Achadinhos da Ana" width="100%">
+    <img src="./assets/achadinhosdaana.jpg" alt="Preview Achadinhos da Ana" width="100%">
   </p>
 
   **🔗 Link:** [https://achadinhos-da-ana.onrender.com/](https://achadinhos-da-ana.onrender.com/)
@@ -251,7 +251,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   <summary><b>🌐 Solutiuns Technologies</b></summary>
   <br>
   <p align="center">
-    <img src="./assets/solutiuns.png" alt="Preview Solutiuns" width="100%">
+    <img src="./assets/solutiuns.jpg" alt="Preview Solutiuns" width="100%">
   </p>
 
   **🔗 Link:** [https://www.solutiuns.com.br/](https://www.solutiuns.com.br/)
@@ -273,7 +273,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   <summary><b>🏗️ DDM Engenharia Civil</b></summary>
   <br>
   <p align="center">
-    <img src="./assets/ddmengenharia.png" alt="Preview DDM" width="100%">
+    <img src="./assets/ddmengenharia.jpg" alt="Preview DDM" width="100%">
   </p>
 
   **🔗 Link:** [https://ddmeng.com.br/](https://ddmeng.com.br/)
@@ -294,7 +294,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   <summary><b>⚡ RRF Soluções em Energia</b></summary>
   <br>
   <p align="center">
-    <img src="./assets/rrf.png" alt="Preview RRF" width="100%">
+    <img src="./assets/rrf.jpg" alt="Preview RRF" width="100%">
   </p>
 
   **🔗 Link:** [https://www.rrfsolucoes.com.br/](https://www.rrfsolucoes.com.br/)
@@ -314,7 +314,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 ---
 
 <p align="center">
-  <img src="assets/certificados.png" alt="Certificados" width="100%">
+  <img src="assets/certificados.jpg" alt="Certificados" width="100%">
 </p>
 
 ## 🏆 Certificações
@@ -379,7 +379,7 @@ Use exatamente assim 👇
 ---
 
 <p align="center">
-  <img src="assets/contato.png" alt="Contato" width="100%">
+  <img src="assets/contato.jpg" alt="Contato" width="100%">
 </p>
 
 ## 📬 Contato
