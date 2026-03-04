@@ -18,6 +18,8 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 
 ## 🛠️ Tecnologia e Software
 
+Meu ecossistema tecnológico é focado na convergência entre o desenvolvimento full-stack e a análise de dados. Utilizo linguagens e frameworks modernos para construir soluções escaláveis, automatizar processos complexos e transformar grandes volumes de dados em dashboards estratégicos para a tomada de decisão.
+
 ### 💻 Linguagens de Programação
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -95,6 +97,8 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 
 ## 🎓 Formação Acadêmica
 
+Minha jornada acadêmica é pautada pelo equilíbrio entre a estrutura e a inovação. Com uma base sólida em Análise e Desenvolvimento de Sistemas pela UNIP, foco agora na especialização em Data Science e Big Data pela FIAP, buscando dominar a arquitetura de dados e as ferramentas de IA que definem o futuro da tecnologia e dos negócios.
+
 <details>
   <summary><b>📊 Data Science – Big Data, BI & Data Engineering | FIAP (2026–2027)</b></summary> <br>
 
@@ -167,6 +171,8 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 
 ## 💼 Experiência Profissional
 
+Minha trajetória profissional é definida pela capacidade de adaptação e pela busca constante por eficiência. Com vivência prática em infraestrutura de TI e suporte especializado, uno o rigor técnico da análise de sistemas à criatividade do design gráfico. Minha experiência em logística me proporcionou uma visão analítica sobre otimização de processos, permitindo que eu entregue soluções tecnológicas que são, ao mesmo tempo, funcionais, seguras e visualmente impactantes.
+
 <details>
   <summary><b>🧪 Anidrol Indústria Química | Auxiliar & Estagiário de TI</b></summary>
   <br>
@@ -222,6 +228,8 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 </p>
 
 ## 🚀 Projetos em Destaque
+
+Nesta seção, apresento uma seleção de projetos que refletem minha capacidade de transformar ideias em produtos digitais funcionais. Aqui você encontrará desde aplicações Full Stack robustas, desenvolvidas com Django e bancos de dados relacionais, até ecossistemas web focados em UX/UI e performance. Cada projeto é um laboratório onde aplico lógica de programação, arquitetura de sistemas e design estratégico para criar experiências de alto impacto.
 
 <details>
   <summary><b>🛍️ Achadinhos da Ana (Web App Full Stack)</b></summary>
@@ -318,6 +326,9 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 </p>
 
 ## 🏆 Certificações
+
+Acredito na educação contínua como motor para a inovação. Minha base de conhecimentos é composta por uma curadoria de certificações que abrangem desde os fundamentos de Infraestrutura e Segurança Cibernética até as especializações em Ciência de Dados e Programação. Cada curso reflete meu compromisso em dominar as ferramentas que utilizo, garantindo que eu esteja sempre atualizado com as melhores práticas e as novas fronteiras da tecnologia.
+
 <details>
   <summary><b>🔥 Clique para ver certificados</b></summary>
 
@@ -383,6 +394,9 @@ Use exatamente assim 👇
 </p>
 
 ## 📬 Contato
+
+Estou sempre aberto a novas conexões, colaborações em projetos desafiadores ou simplesmente para trocar uma ideia sobre o universo de Dados e Tecnologia. Se você busca uma parceria estratégica que una técnica e design, ou quer saber mais sobre minha trajetória e estudos, sinta-se à vontade para me chamar em qualquer um dos canais abaixo!
+
 <p>
   <a href="https://www.linkedin.com/in/jhonatanlima25">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
