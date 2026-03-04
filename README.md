@@ -92,7 +92,7 @@ Meu ecossistema tecnológico é focado na convergência entre o desenvolvimento 
 ### 📊 Estatísticas de Desenvolvimento
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=dracula" alt="Status do Jheex" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
 </p>
 
 ---
