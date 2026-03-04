@@ -10,6 +10,8 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 
 **Meu objetivo?** Transformar dados brutos em inteligência estratégica, construindo soluções que não apenas funcionem, mas que impulsionem negócios.
 
+![Disponível para Projetos](https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Freelance-brightgreen)
+
 ---
 
 <p align="center">
@@ -318,6 +320,14 @@ Nesta seção, apresento uma seleção de projetos que refletem minha capacidade
   * Estrutura de conteúdo clara e organizada
   * Totalmente adaptado para dispositivos móveis
 </details>
+
+<p align="center">
+  <a href="https://jheex.github.io/">
+    <img src="https://img.shields.io/badge/Acesse_meu_Portf%C3%B3lio_Online-000?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio Jhonatan Lima">
+  </a>
+</p>
+
+> **🌐 Confira meu portfólio completo em:** [jheex.github.io](https://jheex.github.io/)
 
 ---
 
