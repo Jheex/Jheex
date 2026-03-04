@@ -225,7 +225,7 @@ Minha trajetória profissional é definida pela capacidade de adaptação e pela
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonatanlima25/details/experience/" target="_blank">
-    <img src="https://img.shields.io/badge/Trajetória_Profissional-0077B5?style=for-the-badge&logo=linkedin" /> alt="Experiências Profissionais Jhonatan Lima">
+    <img src="https://img.shields.io/badge/Trajetória_Profissional-0077B5?style=for-the-badge&logo=linkedin" alt="Experiências Profissionais Jhonatan Lima">
   </a>
 </p>
 
