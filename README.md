@@ -438,24 +438,6 @@ Estou sempre aberto a novas conexões, colaborações em projetos desafiadores o
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonatanlima25">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  
-  <a href="https://wa.me/5511981382542">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="45"/>
-  </a>
-  
-  <a href="https://www.instagram.com/jhonlima_25">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-  </a>
-  
-  <a href="mailto:jhonatanlimacoelho25@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jhonatanlima25">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
