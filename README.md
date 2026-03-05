@@ -10,6 +10,12 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 
 **Meu objetivo?** Transformar dados brutos em inteligência estratégica, construindo soluções que não apenas funcionem, mas que impulsionem negócios.
 
+## 📚 Atualmente estudando
+
+• Engenharia de Dados
+• Machine Learning
+• Arquitetura de Big Data
+
 ![Disponível para Projetos](https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Freelance-brightgreen)
 
 <p align="center">
