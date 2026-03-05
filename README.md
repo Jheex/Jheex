@@ -436,18 +436,21 @@ Use exatamente assim 👇
 
 Estou sempre aberto a novas conexões, colaborações em projetos desafiadores ou simplesmente para trocar uma ideia sobre o universo de Dados e Tecnologia. Se você busca uma parceria estratégica que una técnica e design, ou quer saber mais sobre minha trajetória e estudos, sinta-se à vontade para me chamar em qualquer um dos canais abaixo!
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/jhonatanlima25">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="https://wa.me/5511981382542" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+  
   <a href="https://www.instagram.com/jhonlima_25" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  
   <a href="mailto:jhonatanlimacoelho25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
