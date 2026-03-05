@@ -27,6 +27,10 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jheex&layout=compact&theme=radical"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jheex&theme=radical"/>
+</p>
+
 ---
 
 <p align="center">
