@@ -437,7 +437,21 @@ Use exatamente assim 👇
 Estou sempre aberto a novas conexões, colaborações em projetos desafiadores ou simplesmente para trocar uma ideia sobre o universo de Dados e Tecnologia. Se você busca uma parceria estratégica que una técnica e design, ou quer saber mais sobre minha trajetória e estudos, sinta-se à vontade para me chamar em qualquer um dos canais abaixo!
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" />
+  <a href="https://www.linkedin.com/in/jhonatanlima25">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  
+  <a href="https://wa.me/5511981382542">
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="45"/>
+  </a>
+  
+  <a href="https://www.instagram.com/jhonlima_25">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+  
+  <a href="mailto:jhonatanlimacoelho25@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
 </p>
 
 <p align="center">
