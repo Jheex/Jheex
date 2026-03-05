@@ -20,23 +20,6 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jheex&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheex&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jheex&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jheex/Jheex/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
 <p align="center">
   <img src="assets/softwares.jpg" alt="Banner software" width="100%">
 </p>
