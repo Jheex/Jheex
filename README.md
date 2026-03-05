@@ -14,7 +14,7 @@ Minha trajetória é marcada pela versatilidade: transitei da **logística opera
 
 <p align="center">
   <a href="https://github.com/Jheex/Jheex/raw/main/assets/Curriculo_2026.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Currículo_PDF-000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Currículo Jhonatan Lima">
+    <img src="https://img.shields.io/badge/Download_Currículo_PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Currículo Jhonatan Lima">
   </a>
 </p>
 
@@ -99,7 +99,7 @@ Meu ecossistema tecnológico é focado na convergência entre o desenvolvimento 
 
 <p align="center">
   <a href="https://jheex.github.io/">
-    <img src="https://img.shields.io/badge/Acesse_meu_Portf%C3%B3lio_Online-000?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio Jhonatan Lima">
+    <img src="https://img.shields.io/badge/Acesse_meu_Portf%C3%B3lio_Online-FF0000?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio Jhonatan Lima">
   </a>
 </p>
 
@@ -243,7 +243,7 @@ Minha trajetória profissional é definida pela capacidade de adaptação e pela
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonatanlima25/details/experience/" target="_blank">
-    <img src="https://img.shields.io/badge/Trajetória_Profissional-0077B5?style=for-the-badge&logo=linkedin" alt="Experiências Profissionais Jhonatan Lima">
+    <img src="https://img.shields.io/badge/Trajetória_Profissional-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Experiências Profissionais Jhonatan Lima">
   </a>
 </p>
 
@@ -347,7 +347,7 @@ Nesta seção, apresento uma seleção de projetos que refletem minha capacidade
 
 <p align="center">
   <a href="https://jheex.github.io/">
-    <img src="https://img.shields.io/badge/Acesse_meu_Portf%C3%B3lio_Online-000?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio Jhonatan Lima">
+    <img src="https://img.shields.io/badge/Acesse_meu_Portf%C3%B3lio_Online-FF0000?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio Jhonatan Lima">
   </a>
 </p>
 
@@ -421,7 +421,7 @@ Use exatamente assim 👇
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonatanlima25/details/certifications/" target="_blank">
-    <img src="https://img.shields.io/badge/Veja_mais_Certificações_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificações LinkedIn Jhonatan Lima">
+    <img src="https://img.shields.io/badge/Veja_mais_Certificações_no_LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificações LinkedIn Jhonatan Lima">
   </a>
 </p>
 
