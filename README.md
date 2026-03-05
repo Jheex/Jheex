@@ -438,7 +438,7 @@ Estou sempre aberto a novas conexões, colaborações em projetos desafiadores o
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonatanlima25">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
   <a href="https://wa.me/5511981382542" target="_blank">
@@ -455,9 +455,3 @@ Estou sempre aberto a novas conexões, colaborações em projetos desafiadores o
 </p>
 
 <p align="center"><i>"A persistência é o caminho do êxito."</i></p>
-
-<p align="center">
-  <a href="#-biografia">
-    <img src="https://img.shields.io/badge/Voltar_ao_Topo-FF0000?style=for-the-badge&logo=arrow-up" />
-  </a>
-</p>
