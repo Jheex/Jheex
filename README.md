@@ -390,6 +390,7 @@ Use exatamente assim 👇
 - ✅Crie um site simples usando HTML, CSS e JavaScript — Fundação Bradesco (2024)
 
 🖥️ Infraestrutura, Hardware & Segurança
+- ✅Cybersecurity — FIAP (2026)
 - ✅Fundamentos de TI: Hardware e Software — Fundação Bradesco (2024)
 - ✅Computer Hardware Basics — Cisco Networking Academy (2024)
 - ✅Segurança em Tecnologia da Informação — Fundação Bradesco (2024)
