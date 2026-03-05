@@ -453,7 +453,7 @@ Estou sempre aberto a novas conexões, colaborações em projetos desafiadores o
 
 <p align="center"><i>"A persistência é o caminho do êxito."</i></p>
 
-<p align="right">
+<p align="center">
   <a href="#-biografia">
     <img src="https://img.shields.io/badge/Voltar_ao_Topo-FF0000?style=for-the-badge&logo=arrow-up" />
   </a>
