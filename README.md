@@ -97,6 +97,12 @@ Meu ecossistema tecnológico é focado na convergência entre o desenvolvimento 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://jheex.github.io/">
+    <img src="https://img.shields.io/badge/Acesse_meu_Portf%C3%B3lio_Online-000?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio Jhonatan Lima">
+  </a>
+</p>
+
 ---
 
 <p align="center">
@@ -173,7 +179,7 @@ Minha jornada acadêmica é pautada pelo equilíbrio entre a estrutura e a inova
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonatanlima25/details/education/" target="_blank">
-    <img src="https://img.shields.io/badge/Visualizar_Formação_Completa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Formação Acadêmica Jhonatan Lima">
+    <img src="https://img.shields.io/badge/Visualizar_Formação_Completa-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Formação Acadêmica Jhonatan Lima">
   </a>
 </p>
 
