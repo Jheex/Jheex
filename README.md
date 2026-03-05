@@ -438,19 +438,19 @@ Estou sempre aberto a novas conexões, colaborações em projetos desafiadores o
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonatanlima25">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" />
   </a>
   
   <a href="https://wa.me/5511981382542" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge"/>
   </a>
   
   <a href="https://www.instagram.com/jhonlima_25" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"/>
   </a>
   
   <a href="mailto:jhonatanlimacoelho25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge"/>
   </a>
 </p>
 
