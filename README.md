@@ -261,7 +261,7 @@ Minha trajetória profissional é definida pela capacidade de adaptação e pela
 Nesta seção, apresento uma seleção de projetos que refletem minha capacidade de transformar ideias em produtos digitais funcionais. Aqui você encontrará desde aplicações Full Stack robustas, desenvolvidas com Django e bancos de dados relacionais, até ecossistemas web focados em UX/UI e performance. Cada projeto é um laboratório onde aplico lógica de programação, arquitetura de sistemas e design estratégico para criar experiências de alto impacto.
 
 <details>
-  <summary><b>🛍️ Achadinhos da Ana (Web App Full Stack)</b></summary>
+  <summary><b>🛍️ Achadinhos da Ana</b></summary>
   <br>
   <p align="center">
     <img src="./assets/achadinhosdaana.jpg" alt="Preview Achadinhos da Ana" width="100%">
@@ -366,8 +366,6 @@ Acredito na educação contínua como motor para a inovação. Minha base de con
 
 <details>
   <summary><b>🔥 Clique para ver certificados</b></summary>
-
-Use exatamente assim 👇
 
 🏆 Cursos e Certificações
 
