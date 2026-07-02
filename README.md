@@ -366,7 +366,7 @@ Acredito na educação contínua como motor para a inovação. Minha base de con
 
 <details>
   <summary><b>🔥 Clique para ver certificados</b></summary>
-
+<br>
 🏆 Cursos e Certificações
 
 🌍 Idiomas
